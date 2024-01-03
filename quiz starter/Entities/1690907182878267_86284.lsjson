@@ -1,0 +1,29 @@
+{
+    "1690907182876611:86283": {
+        "IFileManager": {
+            "path": "Files/File_1690907182876611_86283.js"
+        }
+    },
+    "1690907182878267:86284": {
+        "IResourceController": {
+            "name": "EventModule_100",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1690907182878277:86285",
+            "fileId": "1690907182876611:86283",
+            "expected_hash": "404f24b9dd29d8dc40f1b07ae36c0795"
+        },
+        "IResourceManager": {
+            "uid": "1690907182878277:86285",
+            "name": "Files/File_1690907182876611_86283.js",
+            "flags": 1
+        }
+    },
+    "1690907182878277:86285": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    }
+}

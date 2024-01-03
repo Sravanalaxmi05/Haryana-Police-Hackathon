@@ -1,0 +1,38 @@
+{
+    "1584147015044738:375386": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1674499159300188:1269": {
+        "IResourceController": {
+            "name": "DragScreenTransform",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1584147015044738:375386",
+            "fileId": "1674499159300209:1300",
+            "publicId": "1674499159300265:1361",
+            "expected_hash": "d2f1b5cbb7ee80ec2602555e11389ecc"
+        },
+        "IResourceManager": {
+            "uid": "1584147015044738:375386",
+            "name": "Files/File_1674499159300209_1300.js",
+            "flags": 1
+        }
+    },
+    "1674499159300209:1300": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300209_1300.js"
+        }
+    },
+    "1674499159300265:1361": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/DragScreenTransform.js",
+                "hash": "d2f1b5cbb7ee80ec2602555e11389ecc"
+            }
+        }
+    }
+}

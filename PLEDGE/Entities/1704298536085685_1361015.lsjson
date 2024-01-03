@@ -1,0 +1,22 @@
+{
+    "1704298536085685:1361015": {
+        "IResourceController": {
+            "name": "Round",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1704298536085976:1361016",
+            "resources": [
+                "1704298536087220:1361017"
+            ]
+        }
+    },
+    "1704298536085976:1361016": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Meshes/Round"
+            }
+        }
+    }
+}

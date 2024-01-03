@@ -1,0 +1,39 @@
+{
+    "1691018206387510:74107": {
+        "IResourceController": {
+            "name": "VFX",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691018206387281:74077",
+            "fileId": "1691018206424273:74150",
+            "originalId": "1691018278249436:109032",
+            "publicId": "1691018206427724:74151",
+            "expected_hash": "caa5612af2d9a550ee058c29763e0aa7"
+        },
+        "IResourceManager": {
+            "uid": "1691018206387281:74077",
+            "name": "VFX",
+            "flags": 0
+        }
+    },
+    "1691018206424273:74150": {
+        "IFileManager": {
+            "path": "Files/File_1691018206424273_74150.oprfb"
+        }
+    },
+    "1691018206427724:74151": {
+        "IResourceController": {
+            "public": {
+                "path": "Prefabs/VFX.oprfb",
+                "hash": "2a176af6085a561714a27d6890aad6e2"
+            }
+        }
+    },
+    "1691018278249436:109032": {
+        "IFileManager": {
+            "path": "Files/File_1691018278249436_109032.oprfb"
+        }
+    }
+}

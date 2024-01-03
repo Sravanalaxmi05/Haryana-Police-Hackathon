@@ -1,0 +1,120 @@
+{
+    "1584401746123317:20804": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "53760",
+                "compressedSize": "26125",
+                "extension": "mesh",
+                "originalRAM": "53760",
+                "originalSize": "26125",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1674499159300250:1341"
+        }
+    },
+    "1674499159300189:1276": {
+        "IResourceController": {
+            "name": "inner_eye",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1584401746123317:20804",
+            "fileId": "1674499159300221:1313",
+            "originalId": "1674499159300222:1314",
+            "publicId": "1674499159300266:1369",
+            "expected_hash": "216f632449b09e7249ffe93ead853ab6",
+            "additional": {
+                "originalAttribs": {
+                    "vertexAttribs": [
+                        {
+                            "format": "9",
+                            "index": "0",
+                            "semantic": "position"
+                        },
+                        {
+                            "format": "9",
+                            "index": "1",
+                            "semantic": "normal"
+                        },
+                        {
+                            "format": "9",
+                            "index": "2",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "format": "9",
+                            "index": "3",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1584401746123317:20804",
+            "name": "Files/File_1674499159300221_1313.mesh",
+            "flags": 1
+        }
+    },
+    "1674499159300221:1313": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300221_1313.mesh"
+        }
+    },
+    "1674499159300222:1314": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300222_1314.mesh"
+        }
+    },
+    "1674499159300250:1341": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300250_1341.mesh"
+        }
+    },
+    "1674499159300266:1369": {
+        "IResourceController": {
+            "public": {
+                "path": "Character/Meshes/inner_eye.mesh",
+                "hash": "216f632449b09e7249ffe93ead853ab6"
+            }
+        }
+    }
+}

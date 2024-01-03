@@ -1,0 +1,42 @@
+{
+    "1674499159300187:1261": {
+        "IResourceController": {
+            "name": "bar_gradient",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1582938116083875:272059",
+            "fileId": "1674499159300197:1288",
+            "originalId": "1674499159300198:1289",
+            "publicId": "1674499159300260:1347",
+            "expected_hash": "bc52e59b2d4c003c3d5c3c3e7c21be7c",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1582938116083875:272059",
+            "name": "Files/File_1674499159300197_1288",
+            "flags": 1
+        }
+    },
+    "1674499159300197:1288": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300197_1288"
+        }
+    },
+    "1674499159300198:1289": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300198_1289.lsmat"
+        }
+    },
+    "1674499159300260:1347": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/bar_gradient.lsmat",
+                "hash": "6e605a69e668ea9bf5bf062207d6d93b"
+            }
+        }
+    }
+}

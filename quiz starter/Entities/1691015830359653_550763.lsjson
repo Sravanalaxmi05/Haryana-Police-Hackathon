@@ -1,0 +1,79 @@
+{
+    "1691015830353981:550761": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Cactus.png",
+                "hash": "840634ea52d217b7b10a277b89a7d874"
+            }
+        }
+    },
+    "1691015830358248:550762": {
+        "IFileManager": {
+            "path": "Files/File_1691015830358248_550762.pvr"
+        }
+    },
+    "1691015830359653:550763": {
+        "IResourceController": {
+            "name": "Cactus",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691015830360242:550764",
+            "fileId": "1691015830358248:550762",
+            "originalId": "1691015830371491:551103",
+            "publicId": "1691015830353981:550761",
+            "expected_hash": "7a944852ec2e2e897f4adef6582e6cfd",
+            "additional": {
+                "originHash": "840634ea52d217b7b10a277b89a7d874"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691015830360242:550764",
+            "name": "Files/File_1691015830358248_550762.png",
+            "flags": 1
+        }
+    },
+    "1691015830360242:550764": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "840634ea52d217b7b10a277b89a7d874"
+                    },
+                    "v": "1691015830702607:557033"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "10985",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "18511",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691015830373879:551104"
+        }
+    },
+    "1691015830371491:551103": {
+        "IFileManager": {
+            "path": "Files/File_1691015830371491_551103.png"
+        }
+    },
+    "1691015830373879:551104": {
+        "IFileManager": {
+            "path": "Files/File_1691015830373879_551104.png"
+        }
+    },
+    "1691015830702607:557033": {
+        "IFileManager": {
+            "path": "Files/File_1691015830702607_557033.pvr"
+        }
+    }
+}

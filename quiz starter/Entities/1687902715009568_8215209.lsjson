@@ -1,0 +1,22 @@
+{
+    "1687902715009568:8215209": {
+        "IResourceController": {
+            "name": "TIlt Head Left_Right Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1687902715009820:8215210",
+            "resources": [
+                "1687902715005951:8215198"
+            ]
+        }
+    },
+    "1687902715009820:8215210": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/TIlt Head Left_Right Resources"
+            }
+        }
+    }
+}

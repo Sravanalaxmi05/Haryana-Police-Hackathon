@@ -1,0 +1,39 @@
+{
+    "1704298528991805:1358430": {
+        "IFileManager": {
+            "path": "Files/File_1704298528991805_1358430"
+        }
+    },
+    "1704298528994199:1358431": {
+        "IResourceController": {
+            "name": "nerd_lens_material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298528994203:1358432",
+            "fileId": "1704298528991805:1358430",
+            "originalId": "1704298529028769:1358438",
+            "publicId": "1704298529286038:1358445",
+            "expected_hash": "8cb8b0897703db7120e40631a5695271"
+        },
+        "IResourceManager": {
+            "uid": "1704298528994203:1358432",
+            "name": "Files/File_1704298528991805_1358430",
+            "flags": 1
+        }
+    },
+    "1704298529028769:1358438": {
+        "IFileManager": {
+            "path": "Files/File_1704298529028769_1358438.lsmat"
+        }
+    },
+    "1704298529286038:1358445": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Materials/Nerd/nerd_lens_material.lsmat",
+                "hash": "66f446b1e35306d0a0c094b5df1b53af"
+            }
+        }
+    }
+}

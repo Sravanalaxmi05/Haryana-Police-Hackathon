@@ -1,0 +1,33 @@
+{
+    "1690907182692933:86084": {
+        "IFileManager": {
+            "path": "Files/File_1690907182692933_86084.js"
+        }
+    },
+    "1690907182694310:86085": {
+        "IResourceController": {
+            "name": "UI Button",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1690907182694318:86086",
+            "fileId": "1690907182692933:86084",
+            "expected_hash": "90b5ef6cd530779cc32745e6ae68182c"
+        },
+        "IResourceManager": {
+            "uid": "1690907182694318:86086",
+            "name": "Files/File_1690907182692933_86084.js",
+            "flags": 1
+        }
+    },
+    "1690907182694318:86086": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "EventModule_100",
+                "UIWidgetsModule_120",
+                "DestructionHelper_120"
+            ]
+        }
+    }
+}

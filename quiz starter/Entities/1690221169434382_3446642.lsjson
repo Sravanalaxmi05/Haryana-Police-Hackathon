@@ -1,0 +1,40 @@
+{
+    "1690221169431434:3446631": {
+        "IFileManager": {
+            "path": "Files/File_1690221169431434_3446631.js"
+        }
+    },
+    "1690221169434382:3446642": {
+        "IResourceController": {
+            "name": "Options",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690221169434396:3446643",
+            "fileId": "1690221169431434:3446631",
+            "publicId": "1690221169435466:3446650",
+            "expected_hash": "2b036904b597b59120996281a8aee8ce"
+        },
+        "IResourceManager": {
+            "uid": "1690221169434396:3446643",
+            "name": "Files/File_1690221169431434_3446631.js",
+            "flags": 1
+        }
+    },
+    "1690221169434396:3446643": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "SceneObjectHelpersModule"
+            ]
+        }
+    },
+    "1690221169435466:3446650": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/HelperScripts/Options.js",
+                "hash": "2b036904b597b59120996281a8aee8ce"
+            }
+        }
+    }
+}

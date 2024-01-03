@@ -1,0 +1,839 @@
+{
+    "lens_id": "",
+    "document_id": "uLDhylWXM8NQPVBbFrUn",
+    "original_document_id": "uLDhylWXM8NQPVBbFrUn",
+    "version": "33",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "55",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "55",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "InspectorUiComponent": "",
+        "MapUiComponent": {
+            "mapPinPoints": {
+                "1649082416475574:107527": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082427199232:110271": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082439729750:113424": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082450030542:116090": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082460630816:118829": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082471244376:121575": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082481781800:124296": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082491465116:126851": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082504700263:130155": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649083114749264:286916": {
+                    "longitude": "-0.13116145133972168",
+                    "latitude": "51.512794494628906",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649083114749061:286915",
+                    "locationAsset": "1649083114749736:286917"
+                },
+                "1649094984677630:32157": {
+                    "longitude": "-0.13121148943901062",
+                    "latitude": "51.512771606445312",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649094984677441:32156",
+                    "locationAsset": "1649094984678151:32158"
+                },
+                "1649772212970366:35230": {
+                    "longitude": "-0.13149562478065491",
+                    "latitude": "51.513656616210938",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649772212970143:35229",
+                    "locationAsset": "1649772212970867:35231"
+                },
+                "1649778275335615:644381": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649778655920914:710757": {
+                    "longitude": "-0.13150887191295624",
+                    "latitude": "51.513614654541016",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Frith Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649778655920668:710756",
+                    "locationAsset": "1649778655921339:710758"
+                },
+                "1649865066556768:58106": {
+                    "longitude": "-0.13167314231395721",
+                    "latitude": "51.513031005859375",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Old Compton Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649865066556471:58105",
+                    "locationAsset": "1649865066557449:58107"
+                },
+                "1649964505575077:712535": {
+                    "longitude": "-0.13096083700656891",
+                    "latitude": "51.512859344482422",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Romilly Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649964505574756:712534",
+                    "locationAsset": "1649964505575881:712536"
+                },
+                "1651740821321039:38503": {
+                    "longitude": "-0.13170607388019562",
+                    "latitude": "51.512580871582031",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Dean Street And Romily",
+                    "pinUid": "1651740821320812:38502",
+                    "locationAsset": "1651740821321523:38504"
+                },
+                "1651744904534351:1306090": {
+                    "longitude": "-0.13159231841564178",
+                    "latitude": "51.512386322021484",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1651744904534135:1306089",
+                    "locationAsset": "1651744904535003:1306091"
+                },
+                "1652347539892906:46549": {
+                    "longitude": "-0.085821650922298431",
+                    "latitude": "51.528266906738281",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1652347539892395:46548",
+                    "locationAsset": "1652347539893864:46550"
+                },
+                "1653297295919937:563039": {
+                    "longitude": "-0.12685032188892365",
+                    "latitude": "51.507827758789062",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297295919457:563038",
+                    "locationAsset": "1653297295921503:563046"
+                },
+                "1653297493220826:286071": {
+                    "longitude": "-0.12681996822357178",
+                    "latitude": "51.515045166015625",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297493220620:286070",
+                    "locationAsset": "1653297493221647:286072"
+                },
+                "1653297815414767:678204": {
+                    "longitude": "-0.12326952069997787",
+                    "latitude": "51.509716033935547",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297815414537:678203",
+                    "locationAsset": "1653297815415381:678205"
+                }
+            },
+            "mapCurrentPosition": {
+                "x": "-0.131214619",
+                "y": "51.5132256"
+            },
+            "mapCurrentCity": "0"
+        },
+        "Material::UiComponent": "",
+        "MetaInfoUIComponent": {
+            "icon_hash": "5489e303bed6d83fcc5ad78d4bec0565",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_find_face"
+            ],
+            "lens": "Face Expressions",
+            "applicability": "3",
+            "compatibility_descriptors": [
+                "mobile",
+                "web"
+            ],
+            "lens_descriptors": "",
+            "sg": "false",
+            "git_friendly": "true",
+            "activation_camera": "front",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "ObjectTracking3DUIComponent": "",
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "input_stream_type": "Video",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Patio.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 3.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Patio.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "local:C:\/Users\/Legedith\/Downloads\/haryana.mp4",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "ResourceUiComponent": "",
+        "SceneTreeUiComponent": "",
+        "Script::UiComponent": "",
+        "VFX::UiComponent": ""
+    },
+    "model": {
+        "IFileManager": "",
+        "IResourceManager": {
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": "",
+        "LayerComponent": {
+            "nextLayerId": "6",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "4",
+                    "layerName": "UI Layer 1",
+                    "layerMask": "4",
+                    "colorCode": "1"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "RenderOrderComponent": "",
+        "WorldComponent": {
+            "sceneFile": "Scene",
+            "sceneType": "splitScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "AssetImportController": {
+            "itemUidToID": [
+                {
+                    "k": "1704198890224029:88812",
+                    "v": "44hLuGhnd3FgKJlxGI2WGm"
+                },
+                {
+                    "k": "1704198910272060:92937",
+                    "v": "4pwFUMNI4K3KZxZJaiZARG"
+                },
+                {
+                    "k": "1704198967381061:102454",
+                    "v": "4WlNAojskxKxRJHfuKSUgT"
+                }
+            ]
+        },
+        "Compression::IController": "",
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        },
+        "IResourceController": "",
+        "InspectorController": "",
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": [
+                {
+                    "k": "1581116022456793:57441",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1581116022446179:57322"
+                        },
+                        {
+                            "k": [
+                                "Brow"
+                            ],
+                            "v": "1581116022448323:57352"
+                        },
+                        {
+                            "k": [
+                                "Brow",
+                                "Component.BlendShapes"
+                            ],
+                            "v": "1581116022449494:57366"
+                        },
+                        {
+                            "k": [
+                                "Brow",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1581116022448652:57354"
+                        },
+                        {
+                            "k": [
+                                "Cube"
+                            ],
+                            "v": "1581116022449765:57368"
+                        },
+                        {
+                            "k": [
+                                "Cube",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1581116022450094:57370"
+                        },
+                        {
+                            "k": [
+                                "Eye"
+                            ],
+                            "v": "1581116022447461:57338"
+                        },
+                        {
+                            "k": [
+                                "Eye",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1581116022447701:57340"
+                        },
+                        {
+                            "k": [
+                                "Eyelid_Bottom_L"
+                            ],
+                            "v": "1581116022452259:57398"
+                        },
+                        {
+                            "k": [
+                                "Eyelid_Bottom_L",
+                                "Component.BlendShapes"
+                            ],
+                            "v": "1581116022453205:57412"
+                        },
+                        {
+                            "k": [
+                                "Eyelid_Bottom_L",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1581116022452553:57400"
+                        },
+                        {
+                            "k": [
+                                "Eyelid_Top_L"
+                            ],
+                            "v": "1581116022453401:57414"
+                        },
+                        {
+                            "k": [
+                                "Eyelid_Top_L",
+                                "Component.BlendShapes"
+                            ],
+                            "v": "1581116022454590:57428"
+                        },
+                        {
+                            "k": [
+                                "Eyelid_Top_L",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1581116022453698:57416"
+                        },
+                        {
+                            "k": [
+                                "Head"
+                            ],
+                            "v": "1581116022446556:57324"
+                        },
+                        {
+                            "k": [
+                                "Head",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1581116022446796:57326"
+                        },
+                        {
+                            "k": [
+                                "Mouth"
+                            ],
+                            "v": "1581116022450864:57382"
+                        },
+                        {
+                            "k": [
+                                "Mouth",
+                                "Component.BlendShapes"
+                            ],
+                            "v": "1581116022451976:57396"
+                        },
+                        {
+                            "k": [
+                                "Mouth",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1581116022451158:57384"
+                        },
+                        {
+                            "k": [
+                                "Sun"
+                            ],
+                            "v": "1581116022454927:57430"
+                        },
+                        {
+                            "k": [
+                                "Sun",
+                                "Component.LightSource"
+                            ],
+                            "v": "1581116022455324:57432"
+                        }
+                    ]
+                },
+                {
+                    "k": "1581449659090776:8926",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1581449658471820:8775"
+                        },
+                        {
+                            "k": [
+                                "Brow"
+                            ],
+                            "v": "1581449658473464:8777"
+                        },
+                        {
+                            "k": [
+                                "Brow",
+                                "Component.BlendShapes"
+                            ],
+                            "v": "1581449659086021:8886"
+                        },
+                        {
+                            "k": [
+                                "Brow",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1581449658474091:8779"
+                        },
+                        {
+                            "k": [
+                                "Eye"
+                            ],
+                            "v": "1581449659087487:8904"
+                        },
+                        {
+                            "k": [
+                                "Eye",
+                                "Component.BlendShapes"
+                            ],
+                            "v": "1581449659088732:8918"
+                        },
+                        {
+                            "k": [
+                                "Eye",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1581449659087808:8906"
+                        },
+                        {
+                            "k": [
+                                "Eye",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1581449659088962:8920"
+                        },
+                        {
+                            "k": [
+                                "Eye",
+                                "Component.RenderMeshVisual2"
+                            ],
+                            "v": "1581449659089522:8923"
+                        },
+                        {
+                            "k": [
+                                "Mouth"
+                            ],
+                            "v": "1581449659086330:8888"
+                        },
+                        {
+                            "k": [
+                                "Mouth",
+                                "Component.BlendShapes"
+                            ],
+                            "v": "1581449659087291:8902"
+                        },
+                        {
+                            "k": [
+                                "Mouth",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1581449659086630:8890"
+                        }
+                    ]
+                },
+                {
+                    "k": "1581629561477554:47166",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1581629979802936:90881"
+                        },
+                        {
+                            "k": [
+                                "Brow"
+                            ],
+                            "v": "1581629979803565:90883"
+                        },
+                        {
+                            "k": [
+                                "Brow",
+                                "Component.BlendShapes"
+                            ],
+                            "v": "1581629979835469:90900"
+                        },
+                        {
+                            "k": [
+                                "Brow",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1581629979804122:90885"
+                        }
+                    ]
+                },
+                {
+                    "k": "1581630762210668:170784",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1581630762030974:170701"
+                        },
+                        {
+                            "k": [
+                                "Eye"
+                            ],
+                            "v": "1581630762031654:170703"
+                        },
+                        {
+                            "k": [
+                                "Eye",
+                                "Component.BlendShapes"
+                            ],
+                            "v": "1581630762208498:170776"
+                        },
+                        {
+                            "k": [
+                                "Eye",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1581630762032393:170705"
+                        },
+                        {
+                            "k": [
+                                "Eye",
+                                "Component.RenderMeshVisual1"
+                            ],
+                            "v": "1581630762208890:170778"
+                        },
+                        {
+                            "k": [
+                                "Eye",
+                                "Component.RenderMeshVisual2"
+                            ],
+                            "v": "1581630762209615:170781"
+                        }
+                    ]
+                },
+                {
+                    "k": "1582593424334404:264901",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1582593423886052:264776"
+                        },
+                        {
+                            "k": [
+                                "Neutral"
+                            ],
+                            "v": "1582593423886557:264778"
+                        },
+                        {
+                            "k": [
+                                "Neutral",
+                                "Component.BlendShapes"
+                            ],
+                            "v": "1582593424333716:264897"
+                        },
+                        {
+                            "k": [
+                                "Neutral",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1582593423886889:264780"
+                        }
+                    ]
+                },
+                {
+                    "k": "1582755756701525:12008",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1582755756202778:11935"
+                        },
+                        {
+                            "k": [
+                                "Eyes"
+                            ],
+                            "v": "1582755756204151:11937"
+                        },
+                        {
+                            "k": [
+                                "Eyes",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1582755756204897:11939"
+                        },
+                        {
+                            "k": [
+                                "Neutral"
+                            ],
+                            "v": "1582755756699437:11992"
+                        },
+                        {
+                            "k": [
+                                "Neutral",
+                                "Component.BlendShapes"
+                            ],
+                            "v": "1582755756700537:12006"
+                        },
+                        {
+                            "k": [
+                                "Neutral",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1582755756699748:11994"
+                        }
+                    ]
+                },
+                {
+                    "k": "1583277403997439:984024",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1583277403867873:983905"
+                        },
+                        {
+                            "k": [
+                                "Eye_L"
+                            ],
+                            "v": "1583277403992471:983994"
+                        },
+                        {
+                            "k": [
+                                "Eye_L",
+                                "inner_l"
+                            ],
+                            "v": "1583277403995104:984010"
+                        },
+                        {
+                            "k": [
+                                "Eye_L",
+                                "inner_l",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1583277403995777:984012"
+                        },
+                        {
+                            "k": [
+                                "Eye_L",
+                                "outer_l"
+                            ],
+                            "v": "1583277403993290:983996"
+                        },
+                        {
+                            "k": [
+                                "Eye_L",
+                                "outer_l",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1583277403993937:983998"
+                        },
+                        {
+                            "k": [
+                                "Eye_R"
+                            ],
+                            "v": "1583277403985671:983964"
+                        },
+                        {
+                            "k": [
+                                "Eye_R",
+                                "inner_r"
+                            ],
+                            "v": "1583277403989041:983980"
+                        },
+                        {
+                            "k": [
+                                "Eye_R",
+                                "inner_r",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1583277403990247:983982"
+                        },
+                        {
+                            "k": [
+                                "Eye_R",
+                                "outer_r"
+                            ],
+                            "v": "1583277403986484:983966"
+                        },
+                        {
+                            "k": [
+                                "Eye_R",
+                                "outer_r",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1583277403987602:983968"
+                        },
+                        {
+                            "k": [
+                                "LP1_LP1"
+                            ],
+                            "v": "1583277403868692:983907"
+                        },
+                        {
+                            "k": [
+                                "LP1_LP1",
+                                "Component.BlendShapes"
+                            ],
+                            "v": "1583277403985006:983962"
+                        },
+                        {
+                            "k": [
+                                "LP1_LP1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1583277403869209:983909"
+                        }
+                    ]
+                }
+            ]
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        },
+        "ScriptModulesController": ""
+    },
+    "templateName": "Face Expressions",
+    "templateUrl": "https:\/\/downloads.ctfassets.net\/xyb83mibqg29\/66OtAFWJU8AKacNZrpd0ZV\/b041571cab6dcfe7c97e9edce2b94105\/Face_Expressions.zip"
+}

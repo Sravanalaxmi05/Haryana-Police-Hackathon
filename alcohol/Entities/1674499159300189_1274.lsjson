@@ -1,0 +1,120 @@
+{
+    "1584401745632492:20772": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "14187492",
+                "compressedSize": "882478",
+                "extension": "mesh",
+                "originalRAM": "14187492",
+                "originalSize": "882478",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "true",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1674499159300248:1339"
+        }
+    },
+    "1674499159300189:1274": {
+        "IResourceController": {
+            "name": "face",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1584401745632492:20772",
+            "fileId": "1674499159300217:1309",
+            "originalId": "1674499159300218:1310",
+            "publicId": "1674499159300266:1367",
+            "expected_hash": "9b7fa343e391ca1870e714f424e91931",
+            "additional": {
+                "originalAttribs": {
+                    "vertexAttribs": [
+                        {
+                            "format": "9",
+                            "index": "0",
+                            "semantic": "position"
+                        },
+                        {
+                            "format": "9",
+                            "index": "1",
+                            "semantic": "normal"
+                        },
+                        {
+                            "format": "9",
+                            "index": "2",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "format": "9",
+                            "index": "3",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1584401745632492:20772",
+            "name": "Files/File_1674499159300217_1309.mesh",
+            "flags": 1
+        }
+    },
+    "1674499159300217:1309": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300217_1309.mesh"
+        }
+    },
+    "1674499159300218:1310": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300218_1310.mesh"
+        }
+    },
+    "1674499159300248:1339": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300248_1339.mesh"
+        }
+    },
+    "1674499159300266:1367": {
+        "IResourceController": {
+            "public": {
+                "path": "Character/Meshes/face.mesh",
+                "hash": "9b7fa343e391ca1870e714f424e91931"
+            }
+        }
+    }
+}

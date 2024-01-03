@@ -1,0 +1,43 @@
+{
+    "1690251084982933:909456": {
+        "IFileManager": {
+            "path": "Files/File_1690251084982933_909456"
+        }
+    },
+    "1690251084990498:909457": {
+        "IResourceController": {
+            "name": "Hint_Tap_No_Dot",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690251084993683:909460",
+            "fileId": "1690251084982933:909456",
+            "originalId": "1690251085006274:909469",
+            "publicId": "1690251085043574:909485",
+            "expected_hash": "745c3031d678f151e333b08e7bc9a88a",
+            "additional": {
+                "subtype": "5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1690251084993683:909460",
+            "name": "Files/File_1690251084982933_909456",
+            "flags": 1
+        }
+    },
+    "1690251085006274:909469": {
+        "IFileManager": {
+            "path": "Files/File_1690251085006274_909469"
+        }
+    },
+    "1690251085043574:909485": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/Custom Hint Resources/Resources/Textures/Animated/Hint_Tap_No_Dot",
+                "hash": "745c3031d678f151e333b08e7bc9a88a",
+                "complexResourceHash": "6a6fc6e373e5df7785c849aaf8fbf516"
+            }
+        }
+    }
+}

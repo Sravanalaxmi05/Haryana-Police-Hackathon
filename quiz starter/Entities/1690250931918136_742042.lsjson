@@ -1,0 +1,23 @@
+{
+    "1690250931918136:742042": {
+        "IResourceController": {
+            "name": "Animated",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1690250931918407:742043",
+            "resources": [
+                "1690250931848811:742018",
+                "1690251084990498:909457"
+            ]
+        }
+    },
+    "1690250931918407:742043": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/Custom Hint Resources/Resources/Textures/Animated"
+            }
+        }
+    }
+}

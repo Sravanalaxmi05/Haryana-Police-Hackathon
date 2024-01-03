@@ -1,0 +1,22 @@
+{
+    "1704298524613492:1357171": {
+        "IResourceController": {
+            "name": "Animations",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1704298524613826:1357172",
+            "resources": [
+                "1704298524615499:1357173"
+            ]
+        }
+    },
+    "1704298524613826:1357172": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Animations"
+            }
+        }
+    }
+}

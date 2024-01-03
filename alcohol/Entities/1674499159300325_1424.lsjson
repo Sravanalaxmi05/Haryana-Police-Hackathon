@@ -1,0 +1,22 @@
+{
+    "1674499159300267:1370": {
+        "IResourceController": {
+            "public": {
+                "path": "Mesh/Face Mesh Blendshapes"
+            }
+        }
+    },
+    "1674499159300325:1424": {
+        "IResourceController": {
+            "name": "Face Mesh Blendshapes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674499159300267:1370",
+            "resources": [
+                "1674499159300189:1277"
+            ]
+        }
+    }
+}

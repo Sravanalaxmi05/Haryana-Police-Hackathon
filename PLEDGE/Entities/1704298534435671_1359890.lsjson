@@ -1,0 +1,105 @@
+{
+    "1704298534432240:1359889": {
+        "IFileManager": {
+            "path": "Files/File_1704298534432240_1359889.mesh"
+        }
+    },
+    "1704298534435671:1359890": {
+        "IResourceController": {
+            "name": "Drop_L",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298534452497:1359892",
+            "fileId": "1704298534432240:1359889",
+            "publicId": "1704298534473932:1359906",
+            "expected_hash": "4f6587b45f32957b01e6d551d9599784",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1704298534452497:1359892",
+            "name": "Files/File_1704298534432240_1359889.mesh",
+            "flags": 1
+        }
+    },
+    "1704298534452497:1359892": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "6656",
+                "compressedSize": "3924",
+                "extension": "mesh",
+                "originalRAM": "6656",
+                "originalSize": "3924",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1704298534467355:1359905"
+        }
+    },
+    "1704298534467355:1359905": {
+        "IFileManager": {
+            "path": "Files/File_1704298534467355_1359905.mesh"
+        }
+    },
+    "1704298534473932:1359906": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Meshes/Funky/Drop_L.mesh",
+                "hash": "4f6587b45f32957b01e6d551d9599784"
+            }
+        }
+    }
+}

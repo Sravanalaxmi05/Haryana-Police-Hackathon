@@ -1,0 +1,39 @@
+{
+    "1690935494397472:70530": {
+        "IResourceController": {
+            "name": "Option Style 1  [EDIT_ME_CLICK_APPLY_BUTTON]",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690935494397453:70527",
+            "fileId": "1690935494418859:70534",
+            "originalId": "1690935755476110:322105",
+            "publicId": "1690935494421560:70550",
+            "expected_hash": "ff31f3eda76d8106a367d8514f98310a"
+        },
+        "IResourceManager": {
+            "uid": "1690935494397453:70527",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1690935494418859:70534": {
+        "IFileManager": {
+            "path": "Files/File_1690935494418859_70534.oprfb"
+        }
+    },
+    "1690935494421560:70550": {
+        "IResourceController": {
+            "public": {
+                "path": "Prefabs/Option Style 1  [EDIT_ME_CLICK_APPLY_BUTTON].oprfb",
+                "hash": "99678bbae376ead095c0466db75ce92e"
+            }
+        }
+    },
+    "1690935755476110:322105": {
+        "IFileManager": {
+            "path": "Files/File_1690935755476110_322105.oprfb"
+        }
+    }
+}

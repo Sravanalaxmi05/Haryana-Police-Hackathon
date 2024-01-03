@@ -1,0 +1,31 @@
+{
+    "1674499159300230:1322": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300230_1322.hdr"
+        }
+    },
+    "1674499159300267:1373": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Pasadena.hdr",
+                "hash": "059398a5b3b8fd0772a7e8fa12fcb0fe"
+            }
+        }
+    },
+    "1674499159300303:1418": {
+        "IResourceController": {
+            "name": "Pasadena",
+            "type": 9,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1674499159300230:1322",
+            "publicId": "1674499159300267:1373",
+            "expected_hash": "059398a5b3b8fd0772a7e8fa12fcb0fe",
+            "resources": [
+                "1674499159300189:1279",
+                "1674499159300189:1280"
+            ]
+        }
+    }
+}

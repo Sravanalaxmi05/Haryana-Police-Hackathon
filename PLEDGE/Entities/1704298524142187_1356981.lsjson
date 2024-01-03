@@ -1,0 +1,42 @@
+{
+    "1704298524138367:1356980": {
+        "IFileManager": {
+            "path": "Files/File_1704298524138367_1356980.png"
+        }
+    },
+    "1704298524142187:1356981": {
+        "IResourceController": {
+            "name": "white",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298524143201:1356982",
+            "fileId": "1704298524138367:1356980",
+            "originalId": "1704298524143583:1356987",
+            "publicId": "1704298524166373:1356997",
+            "expected_hash": "8588ed5a54012f08bde8e6e7913bd90d",
+            "additional": {
+                "originHash": "8588ed5a54012f08bde8e6e7913bd90d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1704298524143201:1356982",
+            "name": "Files/File_1704298524138367_1356980.jpg",
+            "flags": 1
+        }
+    },
+    "1704298524143583:1356987": {
+        "IFileManager": {
+            "path": "Files/File_1704298524143583_1356987.png"
+        }
+    },
+    "1704298524166373:1356997": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Textures/white.png",
+                "hash": "8588ed5a54012f08bde8e6e7913bd90d"
+            }
+        }
+    }
+}

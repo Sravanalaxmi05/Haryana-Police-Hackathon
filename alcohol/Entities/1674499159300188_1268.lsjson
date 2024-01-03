@@ -1,0 +1,38 @@
+{
+    "1584146979809005:354776": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1674499159300188:1268": {
+        "IResourceController": {
+            "name": "LayoutGroup",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1584146979809005:354776",
+            "fileId": "1674499159300208:1299",
+            "publicId": "1674499159300264:1360",
+            "expected_hash": "f30537a0397fe3884f81a406b27af52f"
+        },
+        "IResourceManager": {
+            "uid": "1584146979809005:354776",
+            "name": "Files/File_1674499159300208_1299.js",
+            "flags": 1
+        }
+    },
+    "1674499159300208:1299": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300208_1299.js"
+        }
+    },
+    "1674499159300264:1360": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/LayoutGroup.js",
+                "hash": "f30537a0397fe3884f81a406b27af52f"
+            }
+        }
+    }
+}

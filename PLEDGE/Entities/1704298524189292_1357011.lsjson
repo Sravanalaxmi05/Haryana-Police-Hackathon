@@ -1,0 +1,79 @@
+{
+    "1704298524186065:1357010": {
+        "IFileManager": {
+            "path": "Files/File_1704298524186065_1357010.pvr"
+        }
+    },
+    "1704298524189292:1357011": {
+        "IResourceController": {
+            "name": "round_normals",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298524193746:1357012",
+            "fileId": "1704298524186065:1357010",
+            "originalId": "1704298524194200:1357017",
+            "publicId": "1704298524227066:1357028",
+            "expected_hash": "68676ce236922ffc54067d5e2b4e8985",
+            "additional": {
+                "originHash": "3cfe5c33e9eef10b2e465d9ea6fa129d"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1704298524193746:1357012",
+            "name": "Files/File_1704298524186065_1357010.jpg",
+            "flags": 1
+        }
+    },
+    "1704298524193746:1357012": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "3cfe5c33e9eef10b2e465d9ea6fa129d"
+                    },
+                    "v": "1704298586839114:1385813"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "8192",
+                "compressedSize": "3931",
+                "extension": "jpg",
+                "originalRAM": "65536",
+                "originalSize": "5437",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1704298524215522:1357027"
+        }
+    },
+    "1704298524194200:1357017": {
+        "IFileManager": {
+            "path": "Files/File_1704298524194200_1357017.jpg"
+        }
+    },
+    "1704298524215522:1357027": {
+        "IFileManager": {
+            "path": "Files/File_1704298524215522_1357027.jpg"
+        }
+    },
+    "1704298524227066:1357028": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Textures/Round/round_normals.jpg",
+                "hash": "3cfe5c33e9eef10b2e465d9ea6fa129d"
+            }
+        }
+    },
+    "1704298586839114:1385813": {
+        "IFileManager": {
+            "path": "Files/File_1704298586839114_1385813.pvr"
+        }
+    }
+}

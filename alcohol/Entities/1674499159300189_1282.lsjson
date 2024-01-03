@@ -1,0 +1,42 @@
+{
+    "1674499159300189:1282": {
+        "IResourceController": {
+            "name": "lambert",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1623200182021466:41491",
+            "fileId": "1674499159300235:1327",
+            "originalId": "1674499159300236:1328",
+            "publicId": "1674499159300268:1375",
+            "expected_hash": "5f0d970251f2567f7a26c4f9f2c3af04",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1623200182021466:41491",
+            "name": "Files/File_1674499159300235_1327",
+            "flags": 1
+        }
+    },
+    "1674499159300235:1327": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300235_1327"
+        }
+    },
+    "1674499159300236:1328": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300236_1328.lsmat"
+        }
+    },
+    "1674499159300268:1375": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/lambert.lsmat",
+                "hash": "060f080f9ea0e4824dc41b9d04be6eac"
+            }
+        }
+    }
+}

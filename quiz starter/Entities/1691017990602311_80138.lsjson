@@ -1,0 +1,38 @@
+{
+    "1691017990598960:80137": {
+        "IFileManager": {
+            "path": "Files/File_1691017990598960_80137.js"
+        }
+    },
+    "1691017990602311:80138": {
+        "IResourceController": {
+            "name": "VFXTrigger",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691017990602334:80139",
+            "fileId": "1691017990598960:80137",
+            "publicId": "1691017990611914:80151",
+            "expected_hash": "46727ff60d572137156b1371e7d4413b"
+        },
+        "IResourceManager": {
+            "uid": "1691017990602334:80139",
+            "name": "Files/File_1691017990598960_80137.js",
+            "flags": 1
+        }
+    },
+    "1691017990602334:80139": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1691017990611914:80151": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/VFXTrigger.js",
+                "hash": "46727ff60d572137156b1371e7d4413b"
+            }
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "1690250931837896:742017": {
+        "IFileManager": {
+            "path": "Files/File_1690250931837896_742017"
+        }
+    },
+    "1690250931848811:742018": {
+        "IResourceController": {
+            "name": "Head_Tilt_Head_Left_Right",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690250931852354:742021",
+            "fileId": "1690250931837896:742017",
+            "originalId": "1690250931868401:742030",
+            "publicId": "1690250931919687:742044",
+            "expected_hash": "1c3bdb88c742757ba413635ea20ff435",
+            "additional": {
+                "subtype": "5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1690250931852354:742021",
+            "name": "Files/File_1690250931837896_742017",
+            "flags": 1
+        }
+    },
+    "1690250931868401:742030": {
+        "IFileManager": {
+            "path": "Files/File_1690250931868401_742030"
+        }
+    },
+    "1690250931919687:742044": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/Custom Hint Resources/Resources/Textures/Animated/Head_Tilt_Head_Left_Right",
+                "hash": "1c3bdb88c742757ba413635ea20ff435",
+                "complexResourceHash": "512ea898a569d8630079dc1b9981dfb9"
+            }
+        }
+    }
+}

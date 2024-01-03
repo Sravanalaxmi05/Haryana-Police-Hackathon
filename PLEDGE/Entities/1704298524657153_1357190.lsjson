@@ -1,0 +1,105 @@
+{
+    "1704298524652480:1357189": {
+        "IFileManager": {
+            "path": "Files/File_1704298524652480_1357189.mesh"
+        }
+    },
+    "1704298524657153:1357190": {
+        "IResourceController": {
+            "name": "EyeLash_L",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298524686402:1357194",
+            "fileId": "1704298524652480:1357189",
+            "publicId": "1704298524722038:1357206",
+            "expected_hash": "7152bc8f73dd93dafc1ba66b34d21001",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1704298524686402:1357194",
+            "name": "Files/File_1704298524652480_1357189.mesh",
+            "flags": 1
+        }
+    },
+    "1704298524686402:1357194": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "57920",
+                "compressedSize": "24483",
+                "extension": "mesh",
+                "originalRAM": "57920",
+                "originalSize": "24483",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1704298524702829:1357205"
+        }
+    },
+    "1704298524702829:1357205": {
+        "IFileManager": {
+            "path": "Files/File_1704298524702829_1357205.mesh"
+        }
+    },
+    "1704298524722038:1357206": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Meshes/Funky/EyeLash_L.mesh",
+                "hash": "7152bc8f73dd93dafc1ba66b34d21001"
+            }
+        }
+    }
+}

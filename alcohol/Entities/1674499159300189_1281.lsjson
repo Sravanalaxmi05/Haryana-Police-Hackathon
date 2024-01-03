@@ -1,0 +1,42 @@
+{
+    "1674499159300189:1281": {
+        "IResourceController": {
+            "name": "bar_background_fill",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1623200127129681:26775",
+            "fileId": "1674499159300233:1325",
+            "originalId": "1674499159300234:1326",
+            "publicId": "1674499159300268:1374",
+            "expected_hash": "e20670b180f72a092de970bdf8940914",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1623200127129681:26775",
+            "name": "Files/File_1674499159300233_1325",
+            "flags": 1
+        }
+    },
+    "1674499159300233:1325": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300233_1325"
+        }
+    },
+    "1674499159300234:1326": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300234_1326.lsmat"
+        }
+    },
+    "1674499159300268:1374": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/bar_background_fill.lsmat",
+                "hash": "48befe9a645a4c1cd6d618221c766c15"
+            }
+        }
+    }
+}

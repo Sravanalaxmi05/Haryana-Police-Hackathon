@@ -1,0 +1,39 @@
+{
+    "1704298522690491:1355668": {
+        "IResourceController": {
+            "name": "Glasses__PUT_UNDER_MAIN_CAM",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298522689789:1355665",
+            "fileId": "1704298522732051:1355692",
+            "originalId": "1704299142182583:1783177",
+            "publicId": "1704298536678781:1362087",
+            "expected_hash": "0674ae6f9dc199b3fc652458312756ac"
+        },
+        "IResourceManager": {
+            "uid": "1704298522689789:1355665",
+            "name": "sceneObject_2",
+            "flags": 0
+        }
+    },
+    "1704298522732051:1355692": {
+        "IFileManager": {
+            "path": "Files/File_1704298522732051_1355692.oprfb"
+        }
+    },
+    "1704298536678781:1362087": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses__PUT_UNDER_MAIN_CAM.oprfb",
+                "hash": "156d89a411913d05b1165a3bdc74f773"
+            }
+        }
+    },
+    "1704299142182583:1783177": {
+        "IFileManager": {
+            "path": "Files/File_1704299142182583_1783177.oprfb"
+        }
+    }
+}

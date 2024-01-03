@@ -1,0 +1,39 @@
+{
+    "1704298531949837:1359210": {
+        "IFileManager": {
+            "path": "Files/File_1704298531949837_1359210"
+        }
+    },
+    "1704298531951883:1359211": {
+        "IResourceController": {
+            "name": "EyeLash",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298531951887:1359212",
+            "fileId": "1704298531949837:1359210",
+            "originalId": "1704298531991546:1359218",
+            "publicId": "1704298532237531:1359225",
+            "expected_hash": "8cb8b0897703db7120e40631a5695271"
+        },
+        "IResourceManager": {
+            "uid": "1704298531951887:1359212",
+            "name": "Files/File_1704298531949837_1359210",
+            "flags": 1
+        }
+    },
+    "1704298531991546:1359218": {
+        "IFileManager": {
+            "path": "Files/File_1704298531991546_1359218.lsmat"
+        }
+    },
+    "1704298532237531:1359225": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Materials/Funky/EyeLash.lsmat",
+                "hash": "5cf3f6d2e97e8c893ef5e78189a39596"
+            }
+        }
+    }
+}

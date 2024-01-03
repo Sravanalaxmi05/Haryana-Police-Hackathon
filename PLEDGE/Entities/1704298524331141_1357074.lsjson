@@ -1,0 +1,79 @@
+{
+    "1704298524326568:1357072": {
+        "IFileManager": {
+            "path": "Files/File_1704298524326568_1357072.pvr"
+        }
+    },
+    "1704298524331141:1357074": {
+        "IResourceController": {
+            "name": "frame_params_glossy",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298524332191:1357076",
+            "fileId": "1704298524326568:1357072",
+            "originalId": "1704298524332691:1357081",
+            "publicId": "1704298524375230:1357090",
+            "expected_hash": "bce3d7cb0e21d7df8ce2d9011d761afa",
+            "additional": {
+                "originHash": "929688ae6431615b7e78c27278ce60b0"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1704298524332191:1357076",
+            "name": "Files/File_1704298524326568_1357072.jpg",
+            "flags": 1
+        }
+    },
+    "1704298524332191:1357076": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "929688ae6431615b7e78c27278ce60b0"
+                    },
+                    "v": "1704298592495762:1386815"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2048",
+                "compressedSize": "171",
+                "extension": "jpg",
+                "originalRAM": "16384",
+                "originalSize": "329",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1704298524355297:1357089"
+        }
+    },
+    "1704298524332691:1357081": {
+        "IFileManager": {
+            "path": "Files/File_1704298524332691_1357081.jpg"
+        }
+    },
+    "1704298524355297:1357089": {
+        "IFileManager": {
+            "path": "Files/File_1704298524355297_1357089.jpg"
+        }
+    },
+    "1704298524375230:1357090": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Textures/FrameParams/frame_params_glossy.jpg",
+                "hash": "929688ae6431615b7e78c27278ce60b0"
+            }
+        }
+    },
+    "1704298592495762:1386815": {
+        "IFileManager": {
+            "path": "Files/File_1704298592495762_1386815.pvr"
+        }
+    }
+}

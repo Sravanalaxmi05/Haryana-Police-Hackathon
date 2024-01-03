@@ -1,0 +1,39 @@
+{
+    "1704298527602468:1357989": {
+        "IFileManager": {
+            "path": "Files/File_1704298527602468_1357989"
+        }
+    },
+    "1704298527604549:1357990": {
+        "IResourceController": {
+            "name": "hearts_lens_material",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298527604554:1357991",
+            "fileId": "1704298527602468:1357989",
+            "originalId": "1704298527636710:1357997",
+            "publicId": "1704298527886181:1358006",
+            "expected_hash": "8cb8b0897703db7120e40631a5695271"
+        },
+        "IResourceManager": {
+            "uid": "1704298527604554:1357991",
+            "name": "Files/File_1704298527602468_1357989",
+            "flags": 1
+        }
+    },
+    "1704298527636710:1357997": {
+        "IFileManager": {
+            "path": "Files/File_1704298527636710_1357997.lsmat"
+        }
+    },
+    "1704298527886181:1358006": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Materials/Hearts/hearts_lens_material.lsmat",
+                "hash": "ad261884d57d40cf1ad058724037ec18"
+            }
+        }
+    }
+}

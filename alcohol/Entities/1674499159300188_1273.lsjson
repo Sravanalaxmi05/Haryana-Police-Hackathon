@@ -1,0 +1,42 @@
+{
+    "1674499159300188:1273": {
+        "IResourceController": {
+            "name": "eyes",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1584401744255086:20716",
+            "fileId": "1674499159300215:1307",
+            "originalId": "1674499159300216:1308",
+            "publicId": "1674499159300266:1365",
+            "expected_hash": "efee8afdc9678dd07078eb708659177c",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1584401744255086:20716",
+            "name": "Files/File_1674499159300215_1307",
+            "flags": 1
+        }
+    },
+    "1674499159300215:1307": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300215_1307"
+        }
+    },
+    "1674499159300216:1308": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300216_1308.lsmat"
+        }
+    },
+    "1674499159300266:1365": {
+        "IResourceController": {
+            "public": {
+                "path": "Character/Materials/eyes.lsmat",
+                "hash": "6aeaf941655c873b65d710bbc776a2fa"
+            }
+        }
+    }
+}

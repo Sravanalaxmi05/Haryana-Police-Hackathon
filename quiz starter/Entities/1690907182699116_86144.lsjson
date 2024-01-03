@@ -1,0 +1,24 @@
+{
+    "1690907182697778:86143": {
+        "IFileManager": {
+            "path": "Files/File_1690907182697778_86143.ttf"
+        }
+    },
+    "1690907182699116:86144": {
+        "IResourceController": {
+            "name": "Poppins-Medium",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1690907182699122:86145",
+            "fileId": "1690907182697778:86143",
+            "expected_hash": "bf59c687bc6d3a70204d3944082c5cc0"
+        },
+        "IResourceManager": {
+            "uid": "1690907182699122:86145",
+            "name": "Files/File_1690907182697778_86143.ttf",
+            "flags": 1
+        }
+    }
+}

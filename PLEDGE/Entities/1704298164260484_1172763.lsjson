@@ -1,0 +1,79 @@
+{
+    "1704298164254903:1172758": {
+        "IFileManager": {
+            "path": "Files/File_1704298164254903_1172758.pvr"
+        }
+    },
+    "1704298164260484:1172763": {
+        "IResourceController": {
+            "name": "HSNCB_logo",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298164271753:1172766",
+            "fileId": "1704298164254903:1172758",
+            "originalId": "1704298164272733:1172771",
+            "publicId": "1704298164324558:1172799",
+            "expected_hash": "b9c6e63e442e058acceb97fc0a1c99e7",
+            "additional": {
+                "originHash": "43b6c368d3568e2da0d73c68d5a5530b"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1704298164271753:1172766",
+            "name": "Files/File_1704298164254903_1172758.png",
+            "flags": 1
+        }
+    },
+    "1704298164271753:1172766": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "43b6c368d3568e2da0d73c68d5a5530b"
+                    },
+                    "v": "1704298165778641:1173625"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "82000",
+                "compressedSize": "30802",
+                "extension": "png",
+                "originalRAM": "654688",
+                "originalSize": "132304",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1704298164279296:1172778"
+        }
+    },
+    "1704298164272733:1172771": {
+        "IFileManager": {
+            "path": "Files/File_1704298164272733_1172771.png"
+        }
+    },
+    "1704298164279296:1172778": {
+        "IFileManager": {
+            "path": "Files/File_1704298164279296_1172778.png"
+        }
+    },
+    "1704298164324558:1172799": {
+        "IResourceController": {
+            "public": {
+                "path": "HSNCB_logo.png",
+                "hash": "43b6c368d3568e2da0d73c68d5a5530b"
+            }
+        }
+    },
+    "1704298165778641:1173625": {
+        "IFileManager": {
+            "path": "Files/File_1704298165778641_1173625.pvr"
+        }
+    }
+}

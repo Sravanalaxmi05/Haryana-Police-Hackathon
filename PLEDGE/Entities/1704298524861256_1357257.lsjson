@@ -1,0 +1,105 @@
+{
+    "1704298524857550:1357254": {
+        "IFileManager": {
+            "path": "Files/File_1704298524857550_1357254.mesh"
+        }
+    },
+    "1704298524861256:1357257": {
+        "IResourceController": {
+            "name": "Lens_L",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298524897302:1357259",
+            "fileId": "1704298524857550:1357254",
+            "publicId": "1704298524922537:1357271",
+            "expected_hash": "da8161cd39acfcc6dd50010711cd517a",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1704298524897302:1357259",
+            "name": "Files/File_1704298524857550_1357254.mesh",
+            "flags": 1
+        }
+    },
+    "1704298524897302:1357259": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "7152",
+                "compressedSize": "3613",
+                "extension": "mesh",
+                "originalRAM": "7152",
+                "originalSize": "3613",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1704298524912794:1357270"
+        }
+    },
+    "1704298524912794:1357270": {
+        "IFileManager": {
+            "path": "Files/File_1704298524912794_1357270.mesh"
+        }
+    },
+    "1704298524922537:1357271": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Meshes/Funky/Lens_L.mesh",
+                "hash": "da8161cd39acfcc6dd50010711cd517a"
+            }
+        }
+    }
+}

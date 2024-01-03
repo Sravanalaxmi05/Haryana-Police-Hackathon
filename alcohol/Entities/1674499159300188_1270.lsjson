@@ -1,0 +1,79 @@
+{
+    "1584320521287212:118764": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "3072",
+                        "uncompressed_hash": "535c525b97b647914a182a815da798d8"
+                    },
+                    "v": "1674499159300246:1337"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "1048576",
+                "compressedSize": "851",
+                "extension": "jpg",
+                "originalRAM": "1048576",
+                "originalSize": "851",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "3",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1674499159300241:1333"
+        }
+    },
+    "1674499159300188:1270": {
+        "IResourceController": {
+            "name": "mask_gradient",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1584320521287212:118764",
+            "fileId": "1674499159300209:1301",
+            "originalId": "1674499159300211:1302",
+            "publicId": "1674499159300265:1362",
+            "expected_hash": "535c525b97b647914a182a815da798d8",
+            "additional": {
+                "originHash": "535c525b97b647914a182a815da798d8"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1584320521287212:118764",
+            "name": "Files/File_1674499159300209_1301.jpg",
+            "flags": 1
+        }
+    },
+    "1674499159300209:1301": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300209_1301.jpg"
+        }
+    },
+    "1674499159300211:1302": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300211_1302.jpg"
+        }
+    },
+    "1674499159300241:1333": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300241_1333.jpg"
+        }
+    },
+    "1674499159300246:1337": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300246_1337.jpg"
+        }
+    },
+    "1674499159300265:1362": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/mask_gradient.jpg",
+                "hash": "535c525b97b647914a182a815da798d8"
+            }
+        }
+    }
+}

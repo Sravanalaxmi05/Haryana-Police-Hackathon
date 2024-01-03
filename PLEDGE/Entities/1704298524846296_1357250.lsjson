@@ -1,0 +1,17 @@
+{
+    "1704298524846296:1357250": {
+        "IResourceController": {
+            "name": "ClipFront",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298524846290:1357249"
+        },
+        "IResourceManager": {
+            "uid": "1704298524846290:1357249",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

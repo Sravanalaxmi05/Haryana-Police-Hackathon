@@ -1,0 +1,29 @@
+{
+    "1691173177368178:68386": {
+        "IFileManager": {
+            "path": "Files/File_1691173177368178_68386.js"
+        }
+    },
+    "1691173177371893:68387": {
+        "IResourceController": {
+            "name": "Managing",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1691173177371911:68388",
+            "fileId": "1691173177368178:68386",
+            "expected_hash": "e74e7c27b6ece8af8ec7dfd491f260ca"
+        },
+        "IResourceManager": {
+            "uid": "1691173177371911:68388",
+            "name": "Files/File_1691173177368178_68386.js",
+            "flags": 1
+        }
+    },
+    "1691173177371911:68388": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    }
+}

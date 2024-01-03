@@ -1,0 +1,39 @@
+{
+    "1704198967378124:102452": {
+        "IFileManager": {
+            "path": "Files/File_1704198967378124_102452"
+        }
+    },
+    "1704198967381053:102453": {
+        "IResourceController": {
+            "name": "Iridescence",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704198967381061:102454",
+            "fileId": "1704198967378124:102452",
+            "originalId": "1704198967419908:102463",
+            "publicId": "1704198967902631:102574",
+            "expected_hash": "95fc1a5227a39c8095d9a7d0885f436d"
+        },
+        "IResourceManager": {
+            "uid": "1704198967381061:102454",
+            "name": "Files/File_1704198967378124_102452",
+            "flags": 1
+        }
+    },
+    "1704198967419908:102463": {
+        "IFileManager": {
+            "path": "Files/File_1704198967419908_102463.lsmat"
+        }
+    },
+    "1704198967902631:102574": {
+        "IResourceController": {
+            "public": {
+                "path": "Iridescence.lsmat",
+                "hash": "960d1aa70223ac12c327e3d93658e191"
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1704198967563156:102504": {
+        "IFileManager": {
+            "path": "Files/File_1704198967563156_102504.png"
+        }
+    },
+    "1704198967565701:102505": {
+        "IResourceController": {
+            "name": "iridescence_combined",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704198967566481:102506",
+            "fileId": "1704198967563156:102504",
+            "originalId": "1704198967566857:102511",
+            "publicId": "1704198967582548:102519",
+            "expected_hash": "464f444dfcba88908c256dddc14e2779",
+            "additional": {
+                "originHash": "464f444dfcba88908c256dddc14e2779"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1704198967566481:102506",
+            "name": "Files/File_1704198967563156_102504.jpg",
+            "flags": 1
+        }
+    },
+    "1704198967566857:102511": {
+        "IFileManager": {
+            "path": "Files/File_1704198967566857_102511.png"
+        }
+    },
+    "1704198967582548:102519": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/iridescence_combined.png",
+                "hash": "464f444dfcba88908c256dddc14e2779"
+            }
+        }
+    }
+}

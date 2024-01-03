@@ -1,0 +1,22 @@
+{
+    "1704298524277113:1357056": {
+        "IResourceController": {
+            "name": "Aciator",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1704298524277470:1357057",
+            "resources": [
+                "1704298524257214:1357042"
+            ]
+        }
+    },
+    "1704298524277470:1357057": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Textures/Aciator"
+            }
+        }
+    }
+}

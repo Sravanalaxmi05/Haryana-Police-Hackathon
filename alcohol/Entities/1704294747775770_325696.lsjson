@@ -1,0 +1,79 @@
+{
+    "1704294747767136:325693": {
+        "IFileManager": {
+            "path": "Files/File_1704294747767136_325693"
+        }
+    },
+    "1704294747775770:325696": {
+        "IResourceController": {
+            "name": "drugs Sticker by ANA MARIA SAAD",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704294747785876:325703",
+            "fileId": "1704294747767136:325693",
+            "originalId": "1704294747786513:325712",
+            "publicId": "1704294747840308:325722",
+            "expected_hash": "73c3083f0b12577b5edd2fbb3c8b0fce",
+            "additional": {
+                "from_giphy": "true"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1704294747785876:325703",
+            "name": "Files/File_1704294747767136_325693",
+            "flags": 1
+        }
+    },
+    "1704294747785876:325703": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "7c8b063c2113d54515af50659b3c1cce"
+                    },
+                    "v": "1704294748149437:326807"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2654208",
+                "compressedSize": "40685",
+                "extension": "t3d",
+                "originalRAM": "2654208",
+                "originalSize": "247770",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1704294747803004:325713"
+        }
+    },
+    "1704294747786513:325712": {
+        "IFileManager": {
+            "path": "Files/File_1704294747786513_325712.gif"
+        }
+    },
+    "1704294747803004:325713": {
+        "IFileManager": {
+            "path": "Files/File_1704294747803004_325713"
+        }
+    },
+    "1704294747840308:325722": {
+        "IResourceController": {
+            "public": {
+                "path": "drugs Sticker by ANA MARIA SAAD.gif",
+                "hash": "7b7487192f18223efab6086e14354f85"
+            }
+        }
+    },
+    "1704294748149437:326807": {
+        "IFileManager": {
+            "path": "Files/File_1704294748149437_326807"
+        }
+    }
+}

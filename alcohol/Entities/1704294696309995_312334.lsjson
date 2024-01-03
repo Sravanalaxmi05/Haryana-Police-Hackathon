@@ -1,0 +1,79 @@
+{
+    "1704294696301624:312331": {
+        "IFileManager": {
+            "path": "Files/File_1704294696301624_312331"
+        }
+    },
+    "1704294696309995:312334": {
+        "IResourceController": {
+            "name": "Radhika Madan Drinking Sticker by Netflix's Feels Like Ishq",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704294696324332:312341",
+            "fileId": "1704294696301624:312331",
+            "originalId": "1704294696325715:312348",
+            "publicId": "1704294696382521:312360",
+            "expected_hash": "ff330c89df62a468dfa59b80f11acda3",
+            "additional": {
+                "from_giphy": "true"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1704294696324332:312341",
+            "name": "Files/File_1704294696301624_312331",
+            "flags": 1
+        }
+    },
+    "1704294696324332:312341": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "3ab80d94e2bdb1487f7409ff52815517"
+                    },
+                    "v": "1704294696733141:313333"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "4194304",
+                "compressedSize": "44971",
+                "extension": "t3d",
+                "originalRAM": "4194304",
+                "originalSize": "225590",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "5",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1704294696343704:312351"
+        }
+    },
+    "1704294696325715:312348": {
+        "IFileManager": {
+            "path": "Files/File_1704294696325715_312348.gif"
+        }
+    },
+    "1704294696343704:312351": {
+        "IFileManager": {
+            "path": "Files/File_1704294696343704_312351"
+        }
+    },
+    "1704294696382521:312360": {
+        "IResourceController": {
+            "public": {
+                "path": "Radhika Madan Drinking Sticker by Netflix's Feels Like Ishq.gif",
+                "hash": "0f8e3b5f61f99ddeeb045db92ca05534"
+            }
+        }
+    },
+    "1704294696733141:313333": {
+        "IFileManager": {
+            "path": "Files/File_1704294696733141_313333"
+        }
+    }
+}

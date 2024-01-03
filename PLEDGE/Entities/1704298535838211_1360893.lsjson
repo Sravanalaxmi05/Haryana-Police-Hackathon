@@ -1,0 +1,25 @@
+{
+    "1704298535838211:1360893": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1704298535838397:1360894",
+            "resources": [
+                "1704298535809720:1360877",
+                "1704298535871270:1360911",
+                "1704298535944646:1360941",
+                "1704298536003052:1360971"
+            ]
+        }
+    },
+    "1704298535838397:1360894": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Meshes/Nerd/Meshes"
+            }
+        }
+    }
+}

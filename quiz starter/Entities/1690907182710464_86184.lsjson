@@ -1,0 +1,30 @@
+{
+    "1690907182710464:86184": {
+        "IResourceController": {
+            "name": "Button Background",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1690907182710445:86181",
+            "fileId": "1690907182734666:86199",
+            "originalId": "1690907697968529:720654",
+            "expected_hash": "bd027ef42c83ad3ca3dcbaedd0ef689b"
+        },
+        "IResourceManager": {
+            "uid": "1690907182710445:86181",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1690907182734666:86199": {
+        "IFileManager": {
+            "path": "Files/File_1690907182734666_86199.oprfb"
+        }
+    },
+    "1690907697968529:720654": {
+        "IFileManager": {
+            "path": "Files/File_1690907697968529_720654.oprfb"
+        }
+    }
+}

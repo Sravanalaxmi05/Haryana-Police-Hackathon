@@ -1,0 +1,33 @@
+{
+    "1690907182882251:86295": {
+        "IFileManager": {
+            "path": "Files/File_1690907182882251_86295.png"
+        }
+    },
+    "1690907182884011:86296": {
+        "IResourceController": {
+            "name": "Button_10X",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1690907182884265:86297",
+            "fileId": "1690907182882251:86295",
+            "originalId": "1690907182884597:86302",
+            "expected_hash": "e2dde7307a52f2d3ffccd1e274ea657e",
+            "additional": {
+                "originHash": "e2dde7307a52f2d3ffccd1e274ea657e"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1690907182884265:86297",
+            "name": "Files/File_1690907182882251_86295.jpg",
+            "flags": 1
+        }
+    },
+    "1690907182884597:86302": {
+        "IFileManager": {
+            "path": "Files/File_1690907182884597_86302.png"
+        }
+    }
+}

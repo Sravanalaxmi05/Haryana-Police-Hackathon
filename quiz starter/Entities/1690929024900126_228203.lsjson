@@ -1,0 +1,39 @@
+{
+    "1690929024900126:228203": {
+        "IResourceController": {
+            "name": "Button Background",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690929024899981:228190",
+            "fileId": "1690929024930075:228220",
+            "originalId": "1690934792081058:2727785",
+            "publicId": "1690929024933239:228221",
+            "expected_hash": "fc62022f17404020c3a8abdfc53bfac1"
+        },
+        "IResourceManager": {
+            "uid": "1690929024899981:228190",
+            "name": "Button Background",
+            "flags": 0
+        }
+    },
+    "1690929024930075:228220": {
+        "IFileManager": {
+            "path": "Files/File_1690929024930075_228220.oprfb"
+        }
+    },
+    "1690929024933239:228221": {
+        "IResourceController": {
+            "public": {
+                "path": "Prefabs/Button Background.oprfb",
+                "hash": "3e88c5800ab505dadc2b208e2c4106cc"
+            }
+        }
+    },
+    "1690934792081058:2727785": {
+        "IFileManager": {
+            "path": "Files/File_1690934792081058_2727785.oprfb"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1690180423821400:70166": {
+        "IResourceController": {
+            "name": "Option Style 2  [EDIT_ME_CLICK_APPLY_BUTTON]",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690180423820894:69927",
+            "fileId": "1690180423897677:70367",
+            "originalId": "1690181687948180:1066368",
+            "publicId": "1690180423899615:70368",
+            "expected_hash": "f861ded1dd469c6ec41f909e60acf2e2"
+        },
+        "IResourceManager": {
+            "uid": "1690180423820894:69927",
+            "name": "Option",
+            "flags": 0
+        }
+    },
+    "1690180423897677:70367": {
+        "IFileManager": {
+            "path": "Files/File_1690180423897677_70367.oprfb"
+        }
+    },
+    "1690180423899615:70368": {
+        "IResourceController": {
+            "public": {
+                "path": "Prefabs/Option Style 2  [EDIT_ME_CLICK_APPLY_BUTTON].oprfb",
+                "hash": "ae7fff4138460186f15b821b72c25847"
+            }
+        }
+    },
+    "1690181687948180:1066368": {
+        "IFileManager": {
+            "path": "Files/File_1690181687948180_1066368.oprfb"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1690500308639389:982415": {
+        "IFileManager": {
+            "path": "Files/File_1690500308639389_982415.js"
+        }
+    },
+    "1690500308641073:982416": {
+        "IResourceController": {
+            "name": "TriggerCategoryFinalEffect",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690500308641083:982417",
+            "fileId": "1690500308639389:982415",
+            "publicId": "1690500308644733:982427",
+            "expected_hash": "a5c86e520bffe332b8dcb2150a67efb3"
+        },
+        "IResourceManager": {
+            "uid": "1690500308641083:982417",
+            "name": "Files/File_1690500308639389_982415.js",
+            "flags": 1
+        }
+    },
+    "1690500308641083:982417": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1690500308644733:982427": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/TriggerCategoryFinalEffect.js",
+                "hash": "a5c86e520bffe332b8dcb2150a67efb3"
+            }
+        }
+    }
+}

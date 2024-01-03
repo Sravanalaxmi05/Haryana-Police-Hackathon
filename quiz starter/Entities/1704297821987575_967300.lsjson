@@ -1,0 +1,79 @@
+{
+    "1704297821975965:967287": {
+        "IFileManager": {
+            "path": "Files/File_1704297821975965_967287.pvr"
+        }
+    },
+    "1704297821987575:967300": {
+        "IResourceController": {
+            "name": "LIFE_magazine_logo",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704297821989146:967301",
+            "fileId": "1704297821975965:967287",
+            "originalId": "1704297821989651:967306",
+            "publicId": "1704297822014799:967318",
+            "expected_hash": "830e179ca4a01c5e990a1d59f83f15ab",
+            "additional": {
+                "originHash": "47634a9fa17eaace1c0a4ae46ecdf0e0"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1704297821989146:967301",
+            "name": "Files/File_1704297821975965_967287.png",
+            "flags": 1
+        }
+    },
+    "1704297821989146:967301": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "47634a9fa17eaace1c0a4ae46ecdf0e0"
+                    },
+                    "v": "1704297822214370:973266"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "115200",
+                "compressedSize": "2016",
+                "extension": "png",
+                "originalRAM": "921600",
+                "originalSize": "992",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1704297821996218:967307"
+        }
+    },
+    "1704297821989651:967306": {
+        "IFileManager": {
+            "path": "Files/File_1704297821989651_967306.png"
+        }
+    },
+    "1704297821996218:967307": {
+        "IFileManager": {
+            "path": "Files/File_1704297821996218_967307.png"
+        }
+    },
+    "1704297822014799:967318": {
+        "IResourceController": {
+            "public": {
+                "path": "LIFE_magazine_logo.png",
+                "hash": "47634a9fa17eaace1c0a4ae46ecdf0e0"
+            }
+        }
+    },
+    "1704297822214370:973266": {
+        "IFileManager": {
+            "path": "Files/File_1704297822214370_973266.pvr"
+        }
+    }
+}

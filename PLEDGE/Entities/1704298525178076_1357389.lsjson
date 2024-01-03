@@ -1,0 +1,39 @@
+{
+    "1704298525175126:1357388": {
+        "IFileManager": {
+            "path": "Files/File_1704298525175126_1357388"
+        }
+    },
+    "1704298525178076:1357389": {
+        "IResourceController": {
+            "name": "aviator_rubber",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298525178081:1357390",
+            "fileId": "1704298525175126:1357388",
+            "originalId": "1704298525216069:1357396",
+            "publicId": "1704298525544465:1357407",
+            "expected_hash": "2b1339b4848a0ae8b57f9df08f4bf2cd"
+        },
+        "IResourceManager": {
+            "uid": "1704298525178081:1357390",
+            "name": "Files/File_1704298525175126_1357388",
+            "flags": 1
+        }
+    },
+    "1704298525216069:1357396": {
+        "IFileManager": {
+            "path": "Files/File_1704298525216069_1357396.lsmat"
+        }
+    },
+    "1704298525544465:1357407": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Materials/Aviator/aviator_rubber.lsmat",
+                "hash": "d53070ea6416943ca1d29091fb49c97a"
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1690495165684190:46818": {
+        "IResourceController": {
+            "name": "Module",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1690495165684446:46819",
+            "resources": [
+                "1690493495067591:149183"
+            ]
+        }
+    },
+    "1690495165684446:46819": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/HelperScripts/Module"
+            }
+        }
+    }
+}

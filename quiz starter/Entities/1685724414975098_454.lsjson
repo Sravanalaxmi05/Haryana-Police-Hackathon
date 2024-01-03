@@ -1,0 +1,40 @@
+{
+    "1685026711117650:89317": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "SceneObjectHelpersModule"
+            ]
+        }
+    },
+    "1685724414975098:454": {
+        "IResourceController": {
+            "name": "QuizGameMain",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1685026711117650:89317",
+            "fileId": "1685724414975140:501",
+            "publicId": "1685724414975160:521",
+            "expected_hash": "71878e707dbb3eff9aae4e63ea862ad4"
+        },
+        "IResourceManager": {
+            "uid": "1685026711117650:89317",
+            "name": "Files/File_1685724414975140_501.js",
+            "flags": 1
+        }
+    },
+    "1685724414975140:501": {
+        "IFileManager": {
+            "path": "Files/File_1685724414975140_501.js"
+        }
+    },
+    "1685724414975160:521": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/HelperScripts/QuizGameMain.js",
+                "hash": "71878e707dbb3eff9aae4e63ea862ad4"
+            }
+        }
+    }
+}

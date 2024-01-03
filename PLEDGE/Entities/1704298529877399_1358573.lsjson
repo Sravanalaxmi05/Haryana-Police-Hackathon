@@ -1,0 +1,39 @@
+{
+    "1704298529875069:1358572": {
+        "IFileManager": {
+            "path": "Files/File_1704298529875069_1358572"
+        }
+    },
+    "1704298529877399:1358573": {
+        "IResourceController": {
+            "name": "round_screw",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298529877406:1358574",
+            "fileId": "1704298529875069:1358572",
+            "originalId": "1704298529914272:1358578",
+            "publicId": "1704298530172848:1358587",
+            "expected_hash": "8cb8b0897703db7120e40631a5695271"
+        },
+        "IResourceManager": {
+            "uid": "1704298529877406:1358574",
+            "name": "Files/File_1704298529875069_1358572",
+            "flags": 1
+        }
+    },
+    "1704298529914272:1358578": {
+        "IFileManager": {
+            "path": "Files/File_1704298529914272_1358578.lsmat"
+        }
+    },
+    "1704298530172848:1358587": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Materials/Round/round_screw.lsmat",
+                "hash": "8f86b8eccf6b8bc36838bc9cba7ce3c9"
+            }
+        }
+    }
+}

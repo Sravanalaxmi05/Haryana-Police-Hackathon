@@ -1,0 +1,105 @@
+{
+    "1704298525060554:1357344": {
+        "IFileManager": {
+            "path": "Files/File_1704298525060554_1357344.mesh"
+        }
+    },
+    "1704298525063109:1357345": {
+        "IResourceController": {
+            "name": "ClipBack_L",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298525080674:1357347",
+            "fileId": "1704298525060554:1357344",
+            "publicId": "1704298525118572:1357361",
+            "expected_hash": "df4e9482ab4c89189cad617863ac1e57",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1704298525080674:1357347",
+            "name": "Files/File_1704298525060554_1357344.mesh",
+            "flags": 1
+        }
+    },
+    "1704298525080674:1357347": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "8680",
+                "compressedSize": "3558",
+                "extension": "mesh",
+                "originalRAM": "8680",
+                "originalSize": "3558",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1704298525102456:1357360"
+        }
+    },
+    "1704298525102456:1357360": {
+        "IFileManager": {
+            "path": "Files/File_1704298525102456_1357360.mesh"
+        }
+    },
+    "1704298525118572:1357361": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Meshes/Funky/ClipBack_L.mesh",
+                "hash": "df4e9482ab4c89189cad617863ac1e57"
+            }
+        }
+    }
+}

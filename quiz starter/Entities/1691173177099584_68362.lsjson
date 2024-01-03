@@ -1,0 +1,42 @@
+{
+    "1691173177094917:68359": {
+        "IFileManager": {
+            "path": "Files/File_1691173177094917_68359"
+        }
+    },
+    "1691173177099584:68362": {
+        "IResourceController": {
+            "name": "correct_wrong_sprites_vfx",
+            "type": 23,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1691173177099591:68363",
+            "fileId": "1691173177094917:68359",
+            "originalId": "1691173177839352:68433",
+            "publicId": "1691173177855807:68434",
+            "expected_hash": "68d08f4853a0d981fd98dabe698a0079",
+            "resources": [
+                "1691173177104211:68366"
+            ]
+        },
+        "IResourceManager": {
+            "uid": "1691173177099591:68363",
+            "name": "Files/File_1691173177094917_68359",
+            "flags": 1
+        }
+    },
+    "1691173177839352:68433": {
+        "IFileManager": {
+            "path": "Files/File_1691173177839352_68433.lsvfx"
+        }
+    },
+    "1691173177855807:68434": {
+        "IResourceController": {
+            "public": {
+                "path": "VFX/correct_wrong_sprites_vfx.lsvfx",
+                "hash": "dd76eb3f0798e59094ca50fb6fe98b07"
+            }
+        }
+    }
+}

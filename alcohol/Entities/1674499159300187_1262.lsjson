@@ -1,0 +1,79 @@
+{
+    "1582938374961200:287320": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "a6c44ae06baeeb29667ab575451a1a6c"
+                    },
+                    "v": "1674499159300232:1324"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "37168",
+                "compressedSize": "1280",
+                "extension": "png",
+                "originalRAM": "297344",
+                "originalSize": "811",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1674499159300231:1323"
+        }
+    },
+    "1674499159300187:1262": {
+        "IResourceController": {
+            "name": "Slider",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1582938374961200:287320",
+            "fileId": "1674499159300199:1290",
+            "originalId": "1674499159300200:1291",
+            "publicId": "1674499159300260:1349",
+            "expected_hash": "825c4efc08d456ee6605b7a1ac83625a",
+            "additional": {
+                "originHash": "a6c44ae06baeeb29667ab575451a1a6c"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1582938374961200:287320",
+            "name": "Files/File222.png",
+            "flags": 1
+        }
+    },
+    "1674499159300199:1290": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300199_1290.pvr"
+        }
+    },
+    "1674499159300200:1291": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300200_1291.png"
+        }
+    },
+    "1674499159300231:1323": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300231_1323.png"
+        }
+    },
+    "1674499159300232:1324": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300232_1324.pvr"
+        }
+    },
+    "1674499159300260:1349": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/Slider.png",
+                "hash": "a6c44ae06baeeb29667ab575451a1a6c"
+            }
+        }
+    }
+}

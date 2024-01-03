@@ -1,0 +1,17 @@
+{
+    "1704298524612426:1357167": {
+        "IResourceController": {
+            "name": "EyeLashRotator_L",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298524612411:1357166"
+        },
+        "IResourceManager": {
+            "uid": "1704298524612411:1357166",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

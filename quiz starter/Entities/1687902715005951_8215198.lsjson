@@ -1,0 +1,38 @@
+{
+    "1687902715003093:8215197": {
+        "IFileManager": {
+            "path": "Files/File_1687902715003093_8215197.js"
+        }
+    },
+    "1687902715005951:8215198": {
+        "IResourceController": {
+            "name": "Tilt Head",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1687902715005961:8215199",
+            "fileId": "1687902715003093:8215197",
+            "publicId": "1687902715012089:8215211",
+            "expected_hash": "5831261238e15dac34fe76aa366f195e"
+        },
+        "IResourceManager": {
+            "uid": "1687902715005961:8215199",
+            "name": "Files/File_1687902715003093_8215197.js",
+            "flags": 1
+        }
+    },
+    "1687902715005961:8215199": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1687902715012089:8215211": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/TIlt Head Left_Right Resources/Tilt Head.js",
+                "hash": "5831261238e15dac34fe76aa366f195e"
+            }
+        }
+    }
+}

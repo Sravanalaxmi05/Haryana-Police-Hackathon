@@ -1,0 +1,38 @@
+{
+    "1689885095604331:110798": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/HelperScripts/QuizData.js",
+                "hash": "2b132cfd3978c0d273e16e758fc8f6eb"
+            }
+        }
+    },
+    "1689885095604821:110799": {
+        "IFileManager": {
+            "path": "Files/File_1689885095604821_110799.js"
+        }
+    },
+    "1689885095606782:110800": {
+        "IResourceController": {
+            "name": "QuizData",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1689885095606835:110801",
+            "fileId": "1689885095604821:110799",
+            "publicId": "1689885095604331:110798",
+            "expected_hash": "2b132cfd3978c0d273e16e758fc8f6eb"
+        },
+        "IResourceManager": {
+            "uid": "1689885095606835:110801",
+            "name": "Files/File_1689885095604821_110799.js",
+            "flags": 1
+        }
+    },
+    "1689885095606835:110801": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    }
+}

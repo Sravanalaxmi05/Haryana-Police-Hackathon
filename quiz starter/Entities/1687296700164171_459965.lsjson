@@ -1,0 +1,38 @@
+{
+    "1687296700162026:459963": {
+        "IFileManager": {
+            "path": "Files/File_1687296700162026_459963.lsc"
+        }
+    },
+    "1687296700164171:459965": {
+        "IResourceController": {
+            "name": "Vertical Layout",
+            "type": 32,
+            "subtype": 0,
+            "dependency": 2,
+            "hidden": false,
+            "uid": "1669931919155359:260166",
+            "fileId": "1687296700162026:459963",
+            "originalId": "1687296700174418:460005",
+            "publicId": "1687296700183028:460008",
+            "expected_hash": "53e4427686042a9c0e46d5015f74355b",
+            "resources": [
+                "1687296700166035:459967",
+                "1687296700171220:459996"
+            ]
+        }
+    },
+    "1687296700174418:460005": {
+        "IFileManager": {
+            "path": "Files/File_1687296700174418_460005.lsc"
+        }
+    },
+    "1687296700183028:460008": {
+        "IResourceController": {
+            "public": {
+                "path": "From Asset Library/Vertical Layout.lsc",
+                "hash": "ec8b5510f44ab142115afab744c44c45"
+            }
+        }
+    }
+}

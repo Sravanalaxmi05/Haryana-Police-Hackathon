@@ -1,0 +1,38 @@
+{
+    "1587758867410011:264087": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1674499159300189:1278": {
+        "IResourceController": {
+            "name": "CopyRotation",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1587758867410011:264087",
+            "fileId": "1674499159300225:1317",
+            "publicId": "1674499159300267:1372",
+            "expected_hash": "58e70b28b621ac3912f52e881693333f"
+        },
+        "IResourceManager": {
+            "uid": "1587758867410011:264087",
+            "name": "Files/File_1674499159300225_1317.js",
+            "flags": 1
+        }
+    },
+    "1674499159300225:1317": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300225_1317.js"
+        }
+    },
+    "1674499159300267:1372": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/CopyRotation.js",
+                "hash": "58e70b28b621ac3912f52e881693333f"
+            }
+        }
+    }
+}

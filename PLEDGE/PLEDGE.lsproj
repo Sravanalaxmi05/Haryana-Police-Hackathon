@@ -1,0 +1,1524 @@
+{
+    "lens_id": "",
+    "document_id": "nHkAc6whFJBHhzs2rYb8",
+    "original_document_id": "nHkAc6whFJBHhzs2rYb8",
+    "version": "33",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "55",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "55",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "InspectorUiComponent": "",
+        "MapUiComponent": {
+            "mapPinPoints": {
+                "1649082416475574:107527": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082427199232:110271": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082439729750:113424": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082450030542:116090": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082460630816:118829": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082471244376:121575": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082481781800:124296": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082491465116:126851": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649082504700263:130155": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649083114749264:286916": {
+                    "longitude": "-0.13116145133972168",
+                    "latitude": "51.512794494628906",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649083114749061:286915",
+                    "locationAsset": "1649083114749736:286917"
+                },
+                "1649094984677630:32157": {
+                    "longitude": "-0.13121148943901062",
+                    "latitude": "51.512771606445312",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649094984677441:32156",
+                    "locationAsset": "1649094984678151:32158"
+                },
+                "1649772212970366:35230": {
+                    "longitude": "-0.13149562478065491",
+                    "latitude": "51.513656616210938",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1649772212970143:35229",
+                    "locationAsset": "1649772212970867:35231"
+                },
+                "1649778275335615:644381": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1649778655920914:710757": {
+                    "longitude": "-0.13150887191295624",
+                    "latitude": "51.513614654541016",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Frith Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649778655920668:710756",
+                    "locationAsset": "1649778655921339:710758"
+                },
+                "1649865066556768:58106": {
+                    "longitude": "-0.13167314231395721",
+                    "latitude": "51.513031005859375",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Old Compton Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649865066556471:58105",
+                    "locationAsset": "1649865066557449:58107"
+                },
+                "1649964505575077:712535": {
+                    "longitude": "-0.13096083700656891",
+                    "latitude": "51.512859344482422",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Romilly Street [PLACE_CONTENT_HERE]",
+                    "pinUid": "1649964505574756:712534",
+                    "locationAsset": "1649964505575881:712536"
+                },
+                "1651740821321039:38503": {
+                    "longitude": "-0.13170607388019562",
+                    "latitude": "51.512580871582031",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Dean Street And Romily",
+                    "pinUid": "1651740821320812:38502",
+                    "locationAsset": "1651740821321523:38504"
+                },
+                "1651744904534351:1306090": {
+                    "longitude": "-0.13159231841564178",
+                    "latitude": "51.512386322021484",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1651744904534135:1306089",
+                    "locationAsset": "1651744904535003:1306091"
+                },
+                "1652347539892906:46549": {
+                    "longitude": "-0.085821650922298431",
+                    "latitude": "51.528266906738281",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1652347539892395:46548",
+                    "locationAsset": "1652347539893864:46550"
+                },
+                "1653297295919937:563039": {
+                    "longitude": "-0.12685032188892365",
+                    "latitude": "51.507827758789062",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297295919457:563038",
+                    "locationAsset": "1653297295921503:563046"
+                },
+                "1653297493220826:286071": {
+                    "longitude": "-0.12681996822357178",
+                    "latitude": "51.515045166015625",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297493220620:286070",
+                    "locationAsset": "1653297493221647:286072"
+                },
+                "1653297815414767:678204": {
+                    "longitude": "-0.12326952069997787",
+                    "latitude": "51.509716033935547",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1653297815414537:678203",
+                    "locationAsset": "1653297815415381:678205"
+                },
+                "1653493597256448:9339872": {
+                    "longitude": "-0.13079617917537689",
+                    "latitude": "51.513442993164062",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Prince Edward Theater",
+                    "pinUid": "1653493597256168:9339871",
+                    "locationAsset": "1653493597256960:9339873"
+                },
+                "1653493638552864:9358953": {
+                    "longitude": "-0.13093028962612152",
+                    "latitude": "51.513412475585938",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - G-A-Y Bar",
+                    "pinUid": "1653493638552519:9358952",
+                    "locationAsset": "1653493638553705:9358954"
+                },
+                "1653493687723064:9374930": {
+                    "longitude": "-0.13104294240474701",
+                    "latitude": "51.513343811035156",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Balans Soho N 34",
+                    "pinUid": "1653493687722851:9374929",
+                    "locationAsset": "1653493687723585:9374931"
+                },
+                "1653493803330428:9408928": {
+                    "longitude": "-0.13251815736293793",
+                    "latitude": "51.512619018554688",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Comptons",
+                    "pinUid": "1653493803330194:9408927",
+                    "locationAsset": "1653493803330931:9408929"
+                },
+                "1653493888646447:9437042": {
+                    "longitude": "-0.13257180154323578",
+                    "latitude": "51.512775421142578",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Balans Soho N 60",
+                    "pinUid": "1653493888646215:9437041",
+                    "locationAsset": "1653493888646975:9437043"
+                },
+                "1653493998978028:9460505": {
+                    "longitude": "-0.1327434629201889",
+                    "latitude": "51.512722015380859",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Starter",
+                    "pinUid": "1653493998977785:9460504",
+                    "locationAsset": "1653493998978498:9460506"
+                },
+                "1653987770327349:6632591": {
+                    "longitude": "-0.13159286975860596",
+                    "latitude": "51.513088226318359",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Sunspel",
+                    "pinUid": "1653987770327113:6632590",
+                    "locationAsset": "1653987770327922:6632592"
+                },
+                "1654097392161667:658304": {
+                    "longitude": "-0.13131193816661835",
+                    "latitude": "51.513172149658203",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Number 6",
+                    "pinUid": "1654097392161435:658303",
+                    "locationAsset": "1654097392162233:658305"
+                },
+                "1654098501572903:1041874": {
+                    "longitude": "-0.13023059070110321",
+                    "latitude": "51.513553619384766",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Number 9",
+                    "pinUid": "1654098501572656:1041873",
+                    "locationAsset": "1654098501573646:1041875"
+                },
+                "1654098623768994:1088584": {
+                    "longitude": "-0.13278475403785706",
+                    "latitude": "51.512626647949219",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Number 1",
+                    "pinUid": "1654098623768713:1088583",
+                    "locationAsset": "1654098623769936:1088585"
+                },
+                "1654099323784527:1332549": {
+                    "longitude": "-0.13267122209072113",
+                    "latitude": "51.512641906738281",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Number 2",
+                    "pinUid": "1654099323784287:1332548",
+                    "locationAsset": "1654099323785226:1332550"
+                },
+                "1654099965889244:1551539": {
+                    "longitude": "-0.13204897940158844",
+                    "latitude": "51.512866973876953",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Number 3",
+                    "pinUid": "1654099965889019:1551538",
+                    "locationAsset": "1654099965889776:1551540"
+                },
+                "1654099971014345:1560159": {
+                    "longitude": "-0.13194705545902252",
+                    "latitude": "51.512931823730469",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Number 4",
+                    "pinUid": "1654099971014098:1560158",
+                    "locationAsset": "1654099971014874:1560160"
+                },
+                "1654100656097092:1799790": {
+                    "longitude": "-0.13164664804935455",
+                    "latitude": "51.513031005859375",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Number 5",
+                    "pinUid": "1654100656096877:1799789",
+                    "locationAsset": "1654100656097605:1799791"
+                },
+                "1654102429699686:2378289": {
+                    "longitude": "-0.13048793375492096",
+                    "latitude": "51.513477325439453",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Baloon 8-9",
+                    "pinUid": "1654102429699467:2378288",
+                    "locationAsset": "1654102429700187:2378290"
+                },
+                "1654102687745797:2487252": {
+                    "longitude": "-0.13078834116458893",
+                    "latitude": "51.513351440429688",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Number 7",
+                    "pinUid": "1654102687745539:2487251",
+                    "locationAsset": "1654102687746353:2487253"
+                },
+                "1654175887875422:3513137": {
+                    "longitude": "-0.13275931775569916",
+                    "latitude": "51.512607574462891",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin_Location_A",
+                    "pinUid": "1654175887875162:3513136",
+                    "locationAsset": "1654175887876072:3513138"
+                },
+                "1654184882162259:9280898": {
+                    "longitude": "-0.13295191526412964",
+                    "latitude": "51.512496948242188",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Mascot",
+                    "pinUid": "1654184882161994:9280897",
+                    "locationAsset": "1654184882162762:9280899"
+                },
+                "1654266175678078:5528349": {
+                    "longitude": "-0.13014410436153412",
+                    "latitude": "51.513511657714844",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin_Mr_Topper",
+                    "pinUid": "1654266175677872:5528348",
+                    "locationAsset": "1654266175679115:5528350"
+                },
+                "1654772712539010:6236613": {
+                    "longitude": "-0.13192425668239594",
+                    "latitude": "51.512859344482422",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin_MaitreChoux",
+                    "pinUid": "1654772712538761:6236612",
+                    "locationAsset": "1654772712539604:6236614"
+                },
+                "1654778455699091:241978": {
+                    "longitude": "-0.13197177648544312",
+                    "latitude": "51.512916564941406",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Crossing Sphere",
+                    "pinUid": "1654778455698883:241977",
+                    "locationAsset": "1654778455700541:241979"
+                },
+                "1654783800275832:1019160": {
+                    "longitude": "-0.13205371797084808",
+                    "latitude": "51.512916564941406",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin_Nico",
+                    "pinUid": "1654783800275606:1019159",
+                    "locationAsset": "1654783800276402:1019165"
+                },
+                "1654796900576393:235965": {
+                    "longitude": "-0.13190296292304993",
+                    "latitude": "51.512989044189453",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin_Nico_pos",
+                    "pinUid": "1654796900576177:235964",
+                    "locationAsset": "1654796900576913:235966"
+                },
+                "1654849123678905:224735": {
+                    "longitude": "-0.13284401595592499",
+                    "latitude": "51.512584686279297",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin_A_Comptons",
+                    "pinUid": "1654849123678638:224734",
+                    "locationAsset": "1654849123679443:224736"
+                },
+                "1654849244823545:388350": {
+                    "longitude": "-0.13077335059642792",
+                    "latitude": "51.513412475585938",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin_F_MaryPoppins",
+                    "pinUid": "1654849244823287:388349",
+                    "locationAsset": "1654849244824102:388351"
+                },
+                "1655417232227167:127137": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655417232274182:128098": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655417232318476:129059": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655417232366822:130020": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655417232418278:130981": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655417232488442:131942": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655417232509087:132021": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655417232531162:132115": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655822998754335:178530": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655822998754750:178534": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655822998755049:178538": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655822998755357:178542": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655822998755666:178546": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655822998755982:178550": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655823939868490:541827": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655823939868924:541831": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655823939869263:541835": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655823939869630:541839": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655823939870229:541843": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1655823939870633:541847": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1656418687099054:13369291": {
+                    "longitude": "-0.13173499703407288",
+                    "latitude": "51.512916564941406",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Tattoo",
+                    "pinUid": "1656418687098753:13369290",
+                    "locationAsset": "1656418687100109:13369292"
+                },
+                "1656581353743642:1827431": {
+                    "longitude": "-0.13197368383407593",
+                    "latitude": "51.512916564941406",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin_Nico",
+                    "pinUid": "1656581353743382:1827430",
+                    "locationAsset": "1656581353744442:1827432"
+                },
+                "1656584248731724:4919233": {
+                    "longitude": "-0.13196729123592377",
+                    "latitude": "51.512908935546875",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin_Hearts",
+                    "pinUid": "1656584248731471:4919232",
+                    "locationAsset": "1656584248732294:4919234"
+                },
+                "1656586095660701:10053705": {
+                    "longitude": "-0.13196647167205811",
+                    "latitude": "51.512920379638672",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin_Nico",
+                    "pinUid": "1656586095660183:10053704",
+                    "locationAsset": "1656586095661545:10053706"
+                },
+                "1657550254368914:15332993": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1657625787285297:4578635": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1658489220564632:88229": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1659391863653488:1494129": {
+                    "longitude": "-118.24141693115234",
+                    "latitude": "34.050590515136719",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1659391863653289:1494128",
+                    "locationAsset": "1659391863654075:1494130"
+                },
+                "1659391867770138:1498363": {
+                    "longitude": "-118.24295806884766",
+                    "latitude": "34.050098419189453",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1659391867769916:1498362",
+                    "locationAsset": "1659391867770728:1498364"
+                },
+                "1659536381865821:11549631": {
+                    "longitude": "-118.24239349365234",
+                    "latitude": "34.04888916015625",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Stamp Drum",
+                    "pinUid": "1659536381865451:11549630",
+                    "locationAsset": "1659536381872457:11549632"
+                },
+                "1660054305393591:7269271": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1660054305394925:7269275": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1660054305396211:7269279": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1660054305397500:7269283": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1660054305398815:7269287": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1660054305400111:7269291": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1660054305401481:7269295": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1660054305402845:7269299": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1660054305419128:7269361": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1660054305480432:7269630": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1660054305491935:7269683": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1660054305503286:7269734": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1660054305514738:7269785": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1660054308151786:7285698": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1663326331625124:1652944": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1663326338325743:1654188": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1663326373182728:1659884": {
+                    "longitude": "0",
+                    "latitude": "0",
+                    "selected": "false",
+                    "valid": "false",
+                    "pinName": "",
+                    "pinUid": "-1:-1",
+                    "locationAsset": "-1:-1"
+                },
+                "1663326697830686:1714863": {
+                    "longitude": "-0.12945312261581421",
+                    "latitude": "51.513839721679688",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin",
+                    "pinUid": "1663326697830407:1714862",
+                    "locationAsset": "1663326697831366:1714864"
+                },
+                "1664816898200590:63073": {
+                    "longitude": "-118.49475860595703",
+                    "latitude": "34.014499664306641",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - 3rd and Broadway [PLACE_CONTENT_HERE]",
+                    "pinUid": "1664816898200389:63072",
+                    "locationAsset": "1664816898201050:63074"
+                },
+                "1664817723865681:182661": {
+                    "longitude": "-118.24846649169922",
+                    "latitude": "34.050472259521484",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Broadway and 3rd [PLACE_CONTENT_HERE]",
+                    "pinUid": "1664817723865475:182660",
+                    "locationAsset": "1664817723866200:182662"
+                },
+                "1664817785631963:190848": {
+                    "longitude": "-118.24960327148438",
+                    "latitude": "34.051132202148438",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Hill and 3rd [PLACE_CONTENT_HERE]",
+                    "pinUid": "1664817785631688:190846",
+                    "locationAsset": "1664817785632524:190850"
+                },
+                "1664818056059844:211648": {
+                    "longitude": "-118.25019073486328",
+                    "latitude": "34.054229736328125",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Grand and 3rd [PLACE_CONTENT_HERE]",
+                    "pinUid": "1664818056059602:211647",
+                    "locationAsset": "1664818056060386:211649"
+                },
+                "1664820351258125:567297": {
+                    "longitude": "-118.49649810791016",
+                    "latitude": "34.015979766845703",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - 3rd and Santa Monica [PLACE_CONTENT_HERE]",
+                    "pinUid": "1664820351257890:567296",
+                    "locationAsset": "1664820351258773:567298"
+                },
+                "1664820917627985:637882": {
+                    "longitude": "-118.49646759033203",
+                    "latitude": "34.015327453613281",
+                    "selected": "false",
+                    "valid": "true",
+                    "pinName": "Pin - Santa Monica and 3rd [PLACE_CONTENT_HERE]",
+                    "pinUid": "1664820917627734:637881",
+                    "locationAsset": "1664820917628672:637883"
+                }
+            },
+            "mapCurrentPosition": {
+                "x": "-0.131214619",
+                "y": "51.5132256"
+            },
+            "mapCurrentCity": "0"
+        },
+        "Material::UiComponent": "",
+        "MetaInfoUIComponent": {
+            "icon_hash": "99f9a381c242ecdea9ac64d1cb856022",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Segmentation",
+            "applicability": "3",
+            "compatibility_descriptors": [
+                "mobile",
+                "web"
+            ],
+            "lens_descriptors": "",
+            "sg": "false",
+            "git_friendly": "true",
+            "activation_camera": "front",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "ObjectTracking3DUIComponent": "",
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "input_stream_type": "Video",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 2.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Smile Person 2.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "ResourceUiComponent": "",
+        "SceneTreeUiComponent": "",
+        "Script::UiComponent": "",
+        "VFX::UiComponent": ""
+    },
+    "model": {
+        "IFileManager": "",
+        "IResourceManager": {
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": "",
+        "LayerComponent": {
+            "nextLayerId": "6",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "4",
+                    "layerName": "Masked",
+                    "layerMask": "4",
+                    "colorCode": "0"
+                },
+                {
+                    "layerId": "5",
+                    "layerName": "Orthographic Masked",
+                    "layerMask": "2",
+                    "colorCode": "1"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "RenderOrderComponent": "",
+        "WorldComponent": {
+            "sceneFile": "Scene",
+            "sceneType": "splitScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "AssetImportController": {
+            "itemUidToID": [
+                {
+                    "k": "1704298522689789:1355665",
+                    "v": "1D5U7mdrpzIP2f43vmUrFf"
+                }
+            ]
+        },
+        "Compression::IController": "",
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        },
+        "IResourceController": "",
+        "InspectorController": "",
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1704298650511131:1413806",
+                        "v": {
+                            "prefab": "1704298522689789:1355665",
+                            "mapping": [
+                                {
+                                    "k": "1704298536595581:1361549",
+                                    "v": "1704298650511131:1413806"
+                                },
+                                {
+                                    "k": "1704298536595605:1361550",
+                                    "v": "1704298650514045:1413982"
+                                },
+                                {
+                                    "k": "1704298536595629:1361551",
+                                    "v": "1704298650555651:1414009"
+                                },
+                                {
+                                    "k": "1704298536595635:1361552",
+                                    "v": "1704298650557604:1414018"
+                                },
+                                {
+                                    "k": "1704298536596766:1361553",
+                                    "v": "1704298650558136:1414020"
+                                },
+                                {
+                                    "k": "1704298536596781:1361554",
+                                    "v": "1704298650560237:1414027"
+                                },
+                                {
+                                    "k": "1704298536596786:1361555",
+                                    "v": "1704298650562254:1414036"
+                                },
+                                {
+                                    "k": "1704298536596818:1361556",
+                                    "v": "1704298650563545:1414051"
+                                },
+                                {
+                                    "k": "1704298536596824:1361557",
+                                    "v": "1704298650565623:1414058"
+                                },
+                                {
+                                    "k": "1704298536596840:1361558",
+                                    "v": "1704298650569299:1414072"
+                                },
+                                {
+                                    "k": "1704298536596845:1361559",
+                                    "v": "1704298650572494:1414084"
+                                },
+                                {
+                                    "k": "1704298536596859:1361560",
+                                    "v": "1704298650575229:1414103"
+                                },
+                                {
+                                    "k": "1704298536596865:1361561",
+                                    "v": "1704298650579567:1414120"
+                                },
+                                {
+                                    "k": "1704298536597062:1361562",
+                                    "v": "1704298650579976:1414122"
+                                },
+                                {
+                                    "k": "1704298536597076:1361563",
+                                    "v": "1704298650581792:1414129"
+                                },
+                                {
+                                    "k": "1704298536597098:1361564",
+                                    "v": "1704298650582894:1414140"
+                                },
+                                {
+                                    "k": "1704298536597103:1361565",
+                                    "v": "1704298650584828:1414147"
+                                },
+                                {
+                                    "k": "1704298536597110:1361566",
+                                    "v": "1704298650585222:1414149"
+                                },
+                                {
+                                    "k": "1704298536597115:1361567",
+                                    "v": "1704298650587180:1414156"
+                                },
+                                {
+                                    "k": "1704298536597131:1361568",
+                                    "v": "1704298650589263:1414171"
+                                },
+                                {
+                                    "k": "1704298536597137:1361569",
+                                    "v": "1704298650592648:1414184"
+                                },
+                                {
+                                    "k": "1704298536597150:1361570",
+                                    "v": "1704298650595582:1414201"
+                                },
+                                {
+                                    "k": "1704298536597154:1361571",
+                                    "v": "1704298650598908:1414217"
+                                },
+                                {
+                                    "k": "1704298536597168:1361572",
+                                    "v": "1704298650603053:1414244"
+                                },
+                                {
+                                    "k": "1704298536597173:1361573",
+                                    "v": "1704298650607715:1414267"
+                                },
+                                {
+                                    "k": "1704298536597179:1361574",
+                                    "v": "1704298650608162:1414269"
+                                },
+                                {
+                                    "k": "1704298536597182:1361575",
+                                    "v": "1704298650610439:1414276"
+                                },
+                                {
+                                    "k": "1704298536597193:1361576",
+                                    "v": "1704298650611651:1414287"
+                                },
+                                {
+                                    "k": "1704298536597197:1361577",
+                                    "v": "1704298650613688:1414294"
+                                },
+                                {
+                                    "k": "1704298536597203:1361578",
+                                    "v": "1704298650614231:1414296"
+                                },
+                                {
+                                    "k": "1704298536597207:1361579",
+                                    "v": "1704298650616793:1414303"
+                                },
+                                {
+                                    "k": "1704298536597219:1361580",
+                                    "v": "1704298650619101:1414317"
+                                },
+                                {
+                                    "k": "1704298536597223:1361581",
+                                    "v": "1704298650622441:1414331"
+                                },
+                                {
+                                    "k": "1704298536597235:1361582",
+                                    "v": "1704298650625564:1414348"
+                                },
+                                {
+                                    "k": "1704298536597240:1361583",
+                                    "v": "1704298650629590:1414360"
+                                },
+                                {
+                                    "k": "1704298536597251:1361584",
+                                    "v": "1704298650635586:1414403"
+                                },
+                                {
+                                    "k": "1704298536597256:1361585",
+                                    "v": "1704298650640438:1414426"
+                                },
+                                {
+                                    "k": "1704298536597267:1361586",
+                                    "v": "1704298650643912:1414453"
+                                },
+                                {
+                                    "k": "1704298536597271:1361587",
+                                    "v": "1704298650646033:1414460"
+                                },
+                                {
+                                    "k": "1704298536597275:1361588",
+                                    "v": "1704298650647457:1414462"
+                                },
+                                {
+                                    "k": "1704298536597289:1361589",
+                                    "v": "1704298650649772:1414474"
+                                },
+                                {
+                                    "k": "1704298536597293:1361590",
+                                    "v": "1704298650650400:1414476"
+                                },
+                                {
+                                    "k": "1704298536597306:1361591",
+                                    "v": "1704298650652466:1414488"
+                                },
+                                {
+                                    "k": "1704298536597311:1361592",
+                                    "v": "1704298650653077:1414490"
+                                },
+                                {
+                                    "k": "1704298536597322:1361593",
+                                    "v": "1704298650655274:1414504"
+                                },
+                                {
+                                    "k": "1704298536597326:1361594",
+                                    "v": "1704298650656085:1414506"
+                                },
+                                {
+                                    "k": "1704298536597337:1361595",
+                                    "v": "1704298650658562:1414518"
+                                },
+                                {
+                                    "k": "1704298536597341:1361596",
+                                    "v": "1704298650659226:1414520"
+                                },
+                                {
+                                    "k": "1704298536597352:1361597",
+                                    "v": "1704298650661421:1414532"
+                                },
+                                {
+                                    "k": "1704298536597360:1361598",
+                                    "v": "1704298650662346:1414534"
+                                },
+                                {
+                                    "k": "1704298536597371:1361599",
+                                    "v": "1704298650664917:1414550"
+                                },
+                                {
+                                    "k": "1704298536597377:1361600",
+                                    "v": "1704298650665655:1414554"
+                                },
+                                {
+                                    "k": "1704298536597388:1361601",
+                                    "v": "1704298650668091:1414566"
+                                },
+                                {
+                                    "k": "1704298536597393:1361602",
+                                    "v": "1704298650668819:1414568"
+                                },
+                                {
+                                    "k": "1704298536597405:1361603",
+                                    "v": "1704298650672494:1414587"
+                                },
+                                {
+                                    "k": "1704298536597411:1361604",
+                                    "v": "1704298650673192:1414589"
+                                },
+                                {
+                                    "k": "1704298536597418:1361605",
+                                    "v": "1704298650673745:1414591"
+                                },
+                                {
+                                    "k": "1704298536597430:1361606",
+                                    "v": "1704298650675924:1414603"
+                                },
+                                {
+                                    "k": "1704298536597438:1361607",
+                                    "v": "1704298650676571:1414605"
+                                },
+                                {
+                                    "k": "1704298536597450:1361608",
+                                    "v": "1704298650679038:1414617"
+                                },
+                                {
+                                    "k": "1704298536597457:1361609",
+                                    "v": "1704298650679673:1414619"
+                                },
+                                {
+                                    "k": "1704298536597470:1361610",
+                                    "v": "1704298650681903:1414631"
+                                },
+                                {
+                                    "k": "1704298536597474:1361611",
+                                    "v": "1704298650682550:1414633"
+                                },
+                                {
+                                    "k": "1704298536597484:1361612",
+                                    "v": "1704298650683817:1414644"
+                                },
+                                {
+                                    "k": "1704298536597495:1361613",
+                                    "v": "1704298650685718:1414648"
+                                },
+                                {
+                                    "k": "1704298536597500:1361614",
+                                    "v": "1704298650686353:1414650"
+                                },
+                                {
+                                    "k": "1704298536597510:1361615",
+                                    "v": "1704298650688614:1414664"
+                                },
+                                {
+                                    "k": "1704298536597514:1361616",
+                                    "v": "1704298650689466:1414666"
+                                },
+                                {
+                                    "k": "1704298536597527:1361617",
+                                    "v": "1704298650693377:1414679"
+                                },
+                                {
+                                    "k": "1704298536597535:1361618",
+                                    "v": "1704298650694118:1414681"
+                                },
+                                {
+                                    "k": "1704298536597539:1361619",
+                                    "v": "1704298650694711:1414683"
+                                },
+                                {
+                                    "k": "1704298536597550:1361620",
+                                    "v": "1704298650697144:1414695"
+                                },
+                                {
+                                    "k": "1704298536597554:1361621",
+                                    "v": "1704298650698068:1414701"
+                                },
+                                {
+                                    "k": "1704298536597565:1361622",
+                                    "v": "1704298650700525:1414715"
+                                },
+                                {
+                                    "k": "1704298536597569:1361623",
+                                    "v": "1704298650701233:1414717"
+                                },
+                                {
+                                    "k": "1704298536597579:1361624",
+                                    "v": "1704298650703558:1414733"
+                                },
+                                {
+                                    "k": "1704298536597583:1361625",
+                                    "v": "1704298650704284:1414737"
+                                },
+                                {
+                                    "k": "1704298536597595:1361630",
+                                    "v": "1704298650706715:1414749"
+                                },
+                                {
+                                    "k": "1704298536597604:1361631",
+                                    "v": "1704298650707392:1414751"
+                                },
+                                {
+                                    "k": "1704298536597614:1361632",
+                                    "v": "1704298650709856:1414763"
+                                },
+                                {
+                                    "k": "1704298536597618:1361633",
+                                    "v": "1704298650710534:1414765"
+                                },
+                                {
+                                    "k": "1704298536597629:1361634",
+                                    "v": "1704298650713996:1414778"
+                                },
+                                {
+                                    "k": "1704298536597633:1361635",
+                                    "v": "1704298650714685:1414780"
+                                },
+                                {
+                                    "k": "1704298536597637:1361636",
+                                    "v": "1704298650715273:1414782"
+                                },
+                                {
+                                    "k": "1704298536597647:1361637",
+                                    "v": "1704298650717719:1414794"
+                                },
+                                {
+                                    "k": "1704298536597651:1361638",
+                                    "v": "1704298650718451:1414796"
+                                },
+                                {
+                                    "k": "1704298536597666:1361639",
+                                    "v": "1704298650720935:1414810"
+                                },
+                                {
+                                    "k": "1704298536597677:1361640",
+                                    "v": "1704298650721642:1414812"
+                                },
+                                {
+                                    "k": "1704298536597689:1361641",
+                                    "v": "1704298650724274:1414824"
+                                },
+                                {
+                                    "k": "1704298536597693:1361642",
+                                    "v": "1704298650725071:1414826"
+                                },
+                                {
+                                    "k": "1704298536597704:1361643",
+                                    "v": "1704298650727648:1414838"
+                                },
+                                {
+                                    "k": "1704298536597708:1361644",
+                                    "v": "1704298650728394:1414840"
+                                },
+                                {
+                                    "k": "1704298536597724:1361645",
+                                    "v": "1704298650732383:1414859"
+                                },
+                                {
+                                    "k": "1704298536597729:1361646",
+                                    "v": "1704298650733153:1414861"
+                                },
+                                {
+                                    "k": "1704298536597732:1361647",
+                                    "v": "1704298650733809:1414863"
+                                },
+                                {
+                                    "k": "1704298536597745:1361648",
+                                    "v": "1704298650736228:1414877"
+                                },
+                                {
+                                    "k": "1704298536597752:1361649",
+                                    "v": "1704298650736982:1414883"
+                                },
+                                {
+                                    "k": "1704298536597763:1361650",
+                                    "v": "1704298650739821:1414895"
+                                },
+                                {
+                                    "k": "1704298536597767:1361651",
+                                    "v": "1704298650740810:1414897"
+                                },
+                                {
+                                    "k": "1704298536597778:1361652",
+                                    "v": "1704298650743164:1414909"
+                                },
+                                {
+                                    "k": "1704298536597781:1361653",
+                                    "v": "1704298650743848:1414911"
+                                },
+                                {
+                                    "k": "1704298536597792:1361654",
+                                    "v": "1704298650746520:1414923"
+                                },
+                                {
+                                    "k": "1704298536597796:1361655",
+                                    "v": "1704298650747238:1414925"
+                                },
+                                {
+                                    "k": "1704298536597807:1361656",
+                                    "v": "1704298650749696:1414937"
+                                },
+                                {
+                                    "k": "1704298536597813:1361657",
+                                    "v": "1704298650750410:1414939"
+                                },
+                                {
+                                    "k": "1704298536597825:1361658",
+                                    "v": "1704298650753001:1414951"
+                                },
+                                {
+                                    "k": "1704298536597833:1361659",
+                                    "v": "1704298650753754:1414953"
+                                },
+                                {
+                                    "k": "1704298536597844:1361660",
+                                    "v": "1704298650757303:1414967"
+                                },
+                                {
+                                    "k": "1704298536597848:1361661",
+                                    "v": "1704298650758345:1414969"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": ""
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        },
+        "ScriptModulesController": ""
+    },
+    "templateName": "Segmentation",
+    "templateUrl": "https:\/\/assets.ctfassets.net\/xyb83mibqg29\/1ia60mSlpT1JA04aN6FghL\/7dfdeb8b577894566eb6bd98201a4bf3\/Segmentation.zip"
+}

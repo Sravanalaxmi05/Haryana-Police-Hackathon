@@ -1,0 +1,42 @@
+{
+    "1674499159300187:1263": {
+        "IResourceController": {
+            "name": "slider_mask",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1582939290924921:430774",
+            "fileId": "1674499159300201:1292",
+            "originalId": "1674499159300202:1293",
+            "publicId": "1674499159300260:1350",
+            "expected_hash": "a61f32d63db8902ac6e8454b6196fa7a",
+            "additional": {
+                "originHash": "a61f32d63db8902ac6e8454b6196fa7a"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1582939290924921:430774",
+            "name": "Files/File_1674499159300201_1292.jpg",
+            "flags": 1
+        }
+    },
+    "1674499159300201:1292": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300201_1292.jpg"
+        }
+    },
+    "1674499159300202:1293": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300202_1293.jpg"
+        }
+    },
+    "1674499159300260:1350": {
+        "IResourceController": {
+            "public": {
+                "path": "Textures/slider_mask.jpg",
+                "hash": "a61f32d63db8902ac6e8454b6196fa7a"
+            }
+        }
+    }
+}

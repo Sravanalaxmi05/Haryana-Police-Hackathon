@@ -1,0 +1,22 @@
+{
+    "1704298534811373:1360048": {
+        "IResourceController": {
+            "name": "Aviator",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1704298534811604:1360049",
+            "resources": [
+                "1704298534812491:1360050"
+            ]
+        }
+    },
+    "1704298534811604:1360049": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Meshes/Aviator"
+            }
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1690240084472575:660013": {
+        "IFileManager": {
+            "path": "Files/File_1690240084472575_660013.js"
+        }
+    },
+    "1690240084476421:660014": {
+        "IResourceController": {
+            "name": "TriggerCollectionFinalEffect",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690240084476436:660015",
+            "fileId": "1690240084472575:660013",
+            "publicId": "1690240084477726:660022",
+            "expected_hash": "26143eb8a608fae5ee3ec060786fb32e"
+        },
+        "IResourceManager": {
+            "uid": "1690240084476436:660015",
+            "name": "Files/File_1690240084472575_660013.js",
+            "flags": 1
+        }
+    },
+    "1690240084476436:660015": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1690240084477726:660022": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/TriggerCollectionFinalEffect.js",
+                "hash": "26143eb8a608fae5ee3ec060786fb32e"
+            }
+        }
+    }
+}

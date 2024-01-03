@@ -1,0 +1,31 @@
+{
+    "1687475279769315:943986": {
+        "IFileManager": {
+            "path": "Files/File_1687475279769315_943986.js"
+        }
+    },
+    "1687475279771144:943987": {
+        "IResourceController": {
+            "name": "Horizontal Layout",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": true,
+            "uid": "1687475279771155:943988",
+            "fileId": "1687475279769315:943986",
+            "expected_hash": "4f3247f4f1df9c8a814daaa815eae8ca"
+        },
+        "IResourceManager": {
+            "uid": "1687475279771155:943988",
+            "name": "Files/File_1687475279769315_943986.js",
+            "flags": 1
+        }
+    },
+    "1687475279771155:943988": {
+        "ScriptModulesController": {
+            "dependent_module_names": [
+                "FlexboxModule"
+            ]
+        }
+    }
+}

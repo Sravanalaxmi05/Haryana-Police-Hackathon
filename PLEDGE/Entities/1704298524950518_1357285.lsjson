@@ -1,0 +1,42 @@
+{
+    "1704298524947495:1357284": {
+        "IFileManager": {
+            "path": "Files/File_1704298524947495_1357284.pvr"
+        }
+    },
+    "1704298524950518:1357285": {
+        "IResourceController": {
+            "name": "reflection_params_0",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298524951197:1357286",
+            "fileId": "1704298524947495:1357284",
+            "originalId": "1704298524951671:1357291",
+            "publicId": "1704298524976564:1357301",
+            "expected_hash": "f15e73a75b6d7cb33993b44f1a250618",
+            "additional": {
+                "originHash": "f15e73a75b6d7cb33993b44f1a250618"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1704298524951197:1357286",
+            "name": "Files/File_1704298524947495_1357284.jpg",
+            "flags": 1
+        }
+    },
+    "1704298524951671:1357291": {
+        "IFileManager": {
+            "path": "Files/File_1704298524951671_1357291.pvr"
+        }
+    },
+    "1704298524976564:1357301": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Textures/LensReflectionParams/reflection_params_0.pvr",
+                "hash": "f15e73a75b6d7cb33993b44f1a250618"
+            }
+        }
+    }
+}

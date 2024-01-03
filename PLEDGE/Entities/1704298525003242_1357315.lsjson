@@ -1,0 +1,105 @@
+{
+    "1704298524999770:1357314": {
+        "IFileManager": {
+            "path": "Files/File_1704298524999770_1357314.mesh"
+        }
+    },
+    "1704298525003242:1357315": {
+        "IResourceController": {
+            "name": "Clip_L",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298525020965:1357317",
+            "fileId": "1704298524999770:1357314",
+            "publicId": "1704298525042016:1357331",
+            "expected_hash": "82a08797f750f6c50409e03544280818",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1704298525020965:1357317",
+            "name": "Files/File_1704298524999770_1357314.mesh",
+            "flags": 1
+        }
+    },
+    "1704298525020965:1357317": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "5008",
+                "compressedSize": "2037",
+                "extension": "mesh",
+                "originalRAM": "5008",
+                "originalSize": "2037",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1704298525033555:1357330"
+        }
+    },
+    "1704298525033555:1357330": {
+        "IFileManager": {
+            "path": "Files/File_1704298525033555_1357330.mesh"
+        }
+    },
+    "1704298525042016:1357331": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Meshes/Funky/Clip_L.mesh",
+                "hash": "82a08797f750f6c50409e03544280818"
+            }
+        }
+    }
+}

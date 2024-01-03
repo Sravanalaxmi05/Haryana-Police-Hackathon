@@ -1,0 +1,39 @@
+{
+    "1704298528419742:1358400": {
+        "IFileManager": {
+            "path": "Files/File_1704298528419742_1358400"
+        }
+    },
+    "1704298528422210:1358401": {
+        "IResourceController": {
+            "name": "nerd_screw",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298528422215:1358402",
+            "fileId": "1704298528419742:1358400",
+            "originalId": "1704298528459426:1358408",
+            "publicId": "1704298528717715:1358417",
+            "expected_hash": "8cb8b0897703db7120e40631a5695271"
+        },
+        "IResourceManager": {
+            "uid": "1704298528422215:1358402",
+            "name": "Files/File_1704298528419742_1358400",
+            "flags": 1
+        }
+    },
+    "1704298528459426:1358408": {
+        "IFileManager": {
+            "path": "Files/File_1704298528459426_1358408.lsmat"
+        }
+    },
+    "1704298528717715:1358417": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Materials/Nerd/nerd_screw.lsmat",
+                "hash": "d101a2dfd69295b955ae71fa5b5e0213"
+            }
+        }
+    }
+}

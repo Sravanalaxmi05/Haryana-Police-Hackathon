@@ -1,0 +1,24 @@
+{
+    "1674499159300262:1352": {
+        "IResourceController": {
+            "public": {
+                "path": "Character"
+            }
+        }
+    },
+    "1674499159300321:1423": {
+        "IResourceController": {
+            "name": "Character",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1674499159300262:1352",
+            "resources": [
+                "1674499159300305:1420",
+                "1674499159300307:1421",
+                "1674499159300320:1422"
+            ]
+        }
+    }
+}

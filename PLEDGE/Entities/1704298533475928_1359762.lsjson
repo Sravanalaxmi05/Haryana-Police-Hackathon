@@ -1,0 +1,39 @@
+{
+    "1704298533473053:1359761": {
+        "IFileManager": {
+            "path": "Files/File_1704298533473053_1359761"
+        }
+    },
+    "1704298533475928:1359762": {
+        "IResourceController": {
+            "name": "Lenses",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1704298533475933:1359763",
+            "fileId": "1704298533473053:1359761",
+            "originalId": "1704298533516765:1359769",
+            "publicId": "1704298533771056:1359776",
+            "expected_hash": "8cb8b0897703db7120e40631a5695271"
+        },
+        "IResourceManager": {
+            "uid": "1704298533475933:1359763",
+            "name": "Files/File_1704298533473053_1359761",
+            "flags": 1
+        }
+    },
+    "1704298533516765:1359769": {
+        "IFileManager": {
+            "path": "Files/File_1704298533516765_1359769.lsmat"
+        }
+    },
+    "1704298533771056:1359776": {
+        "IResourceController": {
+            "public": {
+                "path": "Glasses Pack Resources/Materials/Funky/Lenses.lsmat",
+                "hash": "a4a10955de88338201c83eb822fb8f89"
+            }
+        }
+    }
+}

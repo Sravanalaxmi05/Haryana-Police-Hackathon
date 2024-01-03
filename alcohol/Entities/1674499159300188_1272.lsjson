@@ -1,0 +1,42 @@
+{
+    "1674499159300188:1272": {
+        "IResourceController": {
+            "name": "eyes_shine",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1584401743711872:20677",
+            "fileId": "1674499159300214:1305",
+            "originalId": "1674499159300215:1306",
+            "publicId": "1674499159300265:1364",
+            "expected_hash": "53aa58cba3cfac35211ad5f3c74d815e",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1584401743711872:20677",
+            "name": "Files/File_1674499159300214_1305",
+            "flags": 1
+        }
+    },
+    "1674499159300214:1305": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300214_1305"
+        }
+    },
+    "1674499159300215:1306": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300215_1306.lsmat"
+        }
+    },
+    "1674499159300265:1364": {
+        "IResourceController": {
+            "public": {
+                "path": "Character/Materials/eyes_shine.lsmat",
+                "hash": "7326124d306ca8910376fc415ff24eb3"
+            }
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1674499159300188:1271": {
+        "IResourceController": {
+            "name": "main",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1584401742991902:20630",
+            "fileId": "1674499159300211:1303",
+            "originalId": "1674499159300213:1304",
+            "publicId": "1674499159300265:1363",
+            "expected_hash": "a4e4eb598339b83eea6d6fe86036295e",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1584401742991902:20630",
+            "name": "Files/File_1674499159300211_1303",
+            "flags": 1
+        }
+    },
+    "1674499159300211:1303": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300211_1303"
+        }
+    },
+    "1674499159300213:1304": {
+        "IFileManager": {
+            "path": "Files/File_1674499159300213_1304.lsmat"
+        }
+    },
+    "1674499159300265:1363": {
+        "IResourceController": {
+            "public": {
+                "path": "Character/Materials/main.lsmat",
+                "hash": "cb88c290e1103cfb82f11b38c9143d14"
+            }
+        }
+    }
+}
